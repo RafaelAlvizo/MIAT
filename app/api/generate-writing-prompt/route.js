@@ -1,4 +1,5 @@
 import OpenAI from "openai";
+
 const client = new OpenAI({
   apiKey: process.env.DEEPSEEK_API_KEY,
   baseURL: "https://api.deepseek.com"
@@ -6,53 +7,46 @@ const client = new OpenAI({
 
 export async function POST(req) {
   try {
-    const { taskType } = await req.json();
+    const { taskType, index } = await req.json();
 
     if (!taskType) {
       return Response.json({ error: "Missing taskType" }, { status: 400 });
     }
 
+    // Default index if not provided
+    const n = index || 1;
+
     const prompt = `
-You are a writing prompt generator.
-Generate ONE simple, universal writing prompt for this task type:
+You are a test item generator for writing assessments.
+
+Generate one writing prompt.
 
 Task type: ${taskType}
+Item number: ${n}
 
 Rules:
-- DO NOT make prompts academic.
-- DO NOT include specialized or advanced topics.
-- DO NOT include complex instructions.
-- Keep prompts simple and accessible for all English levels.
-- Output STRICT JSON:
+SCR (1–3 sentences):
+  - item 1 => personal narrative
+  - item 2 => explanation or “rewrite”
+  - item 3 => summary or transformation
+Paragraph:
+  - universal topic, general audience
+Essay:
+  - argumentative or discussion-type
 
+Return ONLY JSON:
 {
   "prompt": "string",
-  "taskType": "${taskType}"
+  "taskType": "${taskType}",
+  "index": ${n}
 }
-
-Prompt examples:
-
-SCR (1–3 sentences):
-- "Describe a time you solved a difficult problem."
-- "Summarize this paragraph in one sentence."
-- "Rewrite this sentence to make it more formal."
-
-PARAGRAPH (100–150 words):
-- "Describe a daily routine you have and why it matters."
-- "Explain a challenge you overcame."
-
-ESSAY (250–350 words):
-- "Do you think technology helps people connect? Explain."
-- "Should students have homework? Give reasons."
-
-Return only JSON.
 `;
 
     const response = await client.chat.completions.create({
       model: "deepseek-chat",
       response_format: { type: "json_object" },
       messages: [
-        { role: "system", content: "Return ONLY valid JSON." },
+        { role: "system", content: "Return only JSON. No text outside JSON." },
         { role: "user", content: prompt }
       ]
     });
