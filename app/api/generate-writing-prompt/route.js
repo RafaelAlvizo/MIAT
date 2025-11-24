@@ -7,46 +7,59 @@ const client = new OpenAI({
 
 export async function POST(req) {
   try {
-    const { taskType, level } = await req.json();
+    const { taskType } = await req.json();
 
-    if (!taskType || !level) {
+    if (!taskType) {
       return Response.json(
-        { error: "Missing taskType or level" },
+        { error: "Missing taskType" },
         { status: 400 }
       );
     }
 
-    const prompt = `
-You are a Writing Task Generator for an English assessment platform.
-
-Generate ONE writing prompt for:
-
-Task type: ${taskType}
-Difficulty (1.1–10.10): ${level}
-
+    const basePrompt = {
+      scr: `
+Generate ONE short writing prompt (SCR).
 Rules:
-- The prompt must match the difficulty level.
-- Output STRICT JSON with:
-{
-  "prompt": "string",
-  "taskType": "${taskType}",
-  "level": "${level}"
-}
+- 1–3 sentence response expected
+- simple, universal, NOT level-based
+- must NOT exceed 20 words
+- examples:
+  • "Describe a time you helped someone."
+  • "Rewrite this sentence to sound more formal: 'I wanna go.'"
+  • "Summarize this paragraph in one sentence."
+Return JSON: { "prompt": "..." }`,
+      
+      paragraph: `
+Generate ONE paragraph-writing prompt.
+Rules:
+- Response should be 100–150 words
+- universal difficulty
+- examples:
+  • "Explain a scientific idea to a 10-year-old."
+  • "Do you think cities should ban cars downtown? Explain."
+Return JSON: { "prompt": "..." }`,
 
-Task definitions:
-SCR → 1–3 sentences (micro-task)
-PARAGRAPH → 100–150 words
-ESSAY → 250–350 words
+      essay: `
+Generate ONE full essay-writing prompt.
+Rules:
+- Response should be 250–350 words
+- universal difficulty
+- examples:
+  • "Does technology connect us or isolate us? Argue your position."
+  • "Should school uniforms be mandatory? Explain with reasons."
+Return JSON: { "prompt": "..." }`
+    };
 
-Only return JSON.
-`;
+    if (!basePrompt[taskType]) {
+      return Response.json({ error: "Invalid taskType" }, { status: 400 });
+    }
 
     const response = await client.chat.completions.create({
       model: "deepseek-chat",
       response_format: { type: "json_object" },
       messages: [
         { role: "system", content: "Return ONLY valid JSON." },
-        { role: "user", content: prompt }
+        { role: "user", content: basePrompt[taskType] }
       ]
     });
 
