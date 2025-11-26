@@ -10,6 +10,107 @@
       }
     ]
   },
+  "1.2": {
+    "text": "The boy has a blue ball.",
+    "questions": [
+      {
+        "type": "literal",
+        "question": "What color is the ball?",
+        "options": ["Blue", "Green", "Red"],
+        "answer": "Blue"
+      }
+    ]
+  },
+  "1.3": {
+    "text": "Anna drinks water when she is thirsty.",
+    "questions": [
+      {
+        "type": "literal",
+        "question": "What does Anna drink?",
+        "options": ["Juice", "Water", "Milk"],
+        "answer": "Water"
+      }
+    ]
+  },
+  "1.4": {
+    "text": "The sun is bright today.",
+    "questions": [
+      {
+        "type": "literal",
+        "question": "What is the sun today?",
+        "options": ["Cold", "Bright", "Cloudy"],
+        "answer": "Bright"
+      }
+    ]
+  },
+  "1.5": {
+    "text": "The cat sits on the chair.",
+    "questions": [
+      {
+        "type": "literal",
+        "question": "Where is the cat?",
+        "options": ["On the chair", "On the floor", "In the bag"],
+        "answer": "On the chair"
+      }
+    ]
+  },
+
+  "2.1": {
+    "text": "Lisa eats an apple for lunch.",
+    "questions": [
+      {
+        "type": "literal",
+        "question": "What does Lisa eat?",
+        "options": ["Banana", "Apple", "Bread"],
+        "answer": "Apple"
+      }
+    ]
+  },
+  "2.2": {
+    "text": "The bus arrives at 10 o’clock every day.",
+    "questions": [
+      {
+        "type": "literal",
+        "question": "When does the bus arrive?",
+        "options": ["9 o’clock", "10 o’clock", "11 o’clock"],
+        "answer": "10 o’clock"
+      }
+    ]
+  },
+  "2.3": {
+    "text": "Sam walks to school because it is close.",
+    "questions": [
+      {
+        "type": "cause",
+        "question": "Why does Sam walk to school?",
+        "options": ["It is far", "It is close", "He missed the bus"],
+        "answer": "It is close"
+      }
+    ]
+  },
+  "2.4": {
+    "text": "The store opens at eight in the morning.",
+    "questions": [
+      {
+        "type": "literal",
+        "question": "When does the store open?",
+        "options": ["Seven", "Eight", "Nine"],
+        "answer": "Eight"
+      }
+    ]
+  },
+  "2.5": {
+    "text": "Mia reads a book before bed.",
+    "questions": [
+      {
+        "type": "literal",
+        "question": "What does Mia do before bed?",
+        "options": ["Watch TV", "Read a book", "Cook"],
+        "answer": "Read a book"
+      }
+    ]
+  },
+
   "3.1": {
     "text": "Tom went to the store because he needed milk.",
     "questions": [
@@ -20,5 +121,251 @@
         "answer": "To buy milk"
       }
     ]
-  }
+  },
+  "3.2": {
+    "text": "The weather was cold, so Sarah wore a jacket.",
+    "questions": [
+      {
+        "type": "cause",
+        "question": "Why did Sarah wear a jacket?",
+        "options": ["It was cold", "She was tired", "It was raining"],
+        "answer": "It was cold"
+      }
+    ]
+  },
+  "3.3": {
+    "text": "Mark saved money every week to buy a new bike.",
+    "questions": [
+      {
+        "type": "purpose",
+        "question": "Why was Mark saving money?",
+        "options": ["To travel", "To buy a new bike", "To buy food"],
+        "answer": "To buy a new bike"
+      }
+    ]
+  },
+  "3.4": {
+    "text": "The teacher smiled when the students arrived on time.",
+    "questions": [
+      {
+        "type": "cause",
+        "question": "Why did the teacher smile?",
+        "options": ["They arrived late", "They arrived on time", "They brought gifts"],
+        "answer": "They arrived on time"
+      }
+    ]
+  },
+  "3.5": {
+    "text": "The cake tasted sweet because it had honey inside.",
+    "questions": [
+      {
+        "type": "cause",
+        "question": "Why did the cake taste sweet?",
+        "options": ["It had sugar", "It had honey", "It was burned"],
+        "answer": "It had honey"
+      }
+    ]
+  },
+
+  "4.1": {
+    "text": "Jenny studied hard for the exam, and as a result, she passed with a high score.",
+    "questions": [
+      {
+        "type": "cause-effect",
+        "question": "Why did Jenny pass with a high score?",
+        "options": ["She guessed", "She studied hard", "The test was easy"],
+        "answer": "She studied hard"
+      }
+    ]
+  },
+  "4.2": {
+    "text": "The library was quiet because many students were reading.",
+    "questions": [
+      {
+        "type": "cause",
+        "question": "Why was the library quiet?",
+        "options": ["Nobody was there", "Students were reading", "It was closed"],
+        "answer": "Students were reading"
+      }
+    ]
+  },
+  "4.3": {
+    "text": "The team practiced every afternoon, so they improved quickly.",
+    "questions": [
+      {
+        "type": "effect",
+        "question": "What happened because the team practiced?",
+        "options": ["They improved quickly", "They got tired", "They lost games"],
+        "answer": "They improved quickly"
+      }
+    ]
+  },
+  "4.4": {
+    "text": "Lisa woke up early to catch the first train of the day.",
+    "questions": [
+      {
+        "type": "purpose",
+        "question": "Why did Lisa wake up early?",
+        "options": ["To run", "To cook", "To catch the first train"],
+        "answer": "To catch the first train"
+      }
+    ]
+  },
+  "4.5": {
+    "text": "Jack forgot his umbrella, so he got wet on the way home.",
+    "questions": [
+      {
+        "type": "effect",
+        "question": "Why did Jack get wet?",
+        "options": ["He walked slowly", "He forgot his umbrella", "It was sunny"],
+        "answer": "He forgot his umbrella"
+      }
+    ]
+  },
+
+  "5.1": {
+    "text": "Maria loves hiking in the mountains. She enjoys the fresh air and the peaceful views. Every weekend, she explores a new trail with her friends.",
+    "questions": [
+      {
+        "type": "main-idea",
+        "question": "What is the main idea of this paragraph?",
+        "options": ["Maria dislikes hiking", "Maria enjoys hiking in nature", "Maria only hikes once a year"],
+        "answer": "Maria enjoys hiking in nature"
+      }
+    ]
+  },
+  "5.2": {
+    "text": "The city park is a popular place for families. Children play on the swings while parents sit on benches. Some people jog along the walking paths.",
+    "questions": [
+      {
+        "type": "main-idea",
+        "question": "What is the park mainly used for?",
+        "options": ["Sleeping", "Family activities", "Shopping"],
+        "answer": "Family activities"
+      }
+    ]
+  },
+  "5.3": {
+    "text": "The bakery on Main Street sells fresh bread every morning. Many customers line up before it opens. The smell of warm bread fills the air.",
+    "questions": [
+      {
+        "type": "detail",
+        "question": "What do many customers do?",
+        "options": ["Line up early", "Bake their own bread", "Complain"],
+        "answer": "Line up early"
+      }
+    ]
+  },
+  "5.4": {
+    "text": "During summer, the lake becomes a popular destination. People swim, fish, and have picnics by the water. Lifeguards watch the beach to keep everyone safe.",
+    "questions": [
+      {
+        "type": "purpose",
+        "question": "Why are lifeguards present at the lake?",
+        "options": ["To clean the beach", "To keep people safe", "To sell food"],
+        "answer": "To keep people safe"
+      }
+    ]
+  },
+  "5.5": {
+    "text": "Tom volunteers at the animal shelter. He feeds the dogs, cleans their cages, and helps find them new homes.",
+    "questions": [
+      {
+        "type": "detail",
+        "question": "Where does Tom volunteer?",
+        "options": ["Library", "Animal shelter", "Hospital"],
+        "answer": "Animal shelter"
+      }
+    ]
+  },
+
+  "6.1": {
+    "text": "During the winter holidays, many families travel to visit relatives. Airports become crowded, and traffic on highways increases.",
+    "questions": [
+      {
+        "type": "inference",
+        "question": "What likely happens during holidays?",
+        "options": ["Less travel", "More travel", "Nobody travels"],
+        "answer": "More travel"
+      }
+    ]
+  },
+  "6.2": {
+    "text": "The science museum offers interactive exhibits. Visitors can touch models, experiment with tools, and learn through hands-on activities.",
+    "questions": [
+      {
+        "type": "purpose",
+        "question": "What is the purpose of the exhibits?",
+        "options": ["To confuse visitors", "To provide hands-on learning", "To sell items"],
+        "answer": "To provide hands-on learning"
+      }
+    ]
+  },
+  "6.3": {
+    "text": "Local farmers sell fruits and vegetables at the market each weekend. Many people prefer buying fresh produce directly from them.",
+    "questions": [
+      {
+        "type": "inference",
+        "question": "Why do people shop at the farmers' market?",
+        "options": ["For fresh produce", "For electronics", "For clothes"],
+        "answer": "For fresh produce"
+      }
+    ]
+  },
+  "6.4": {
+    "text": "The library renovated its reading room, adding more windows and comfortable chairs. As a result, more students began studying there.",
+    "questions": [
+      {
+        "type": "effect",
+        "question": "Why did more students study at the library?",
+        "options": ["It became more comfortable", "It became louder", "It removed chairs"],
+        "answer": "It became more comfortable"
+      }
+    ]
+  },
+  "6.5": {
+    "text": "The community center offers free language classes. People from different countries attend to improve their communication skills.",
+    "questions": [
+      {
+        "type": "main-idea",
+        "question": "What is the paragraph mainly about?",
+        "options": ["Sports events", "Free language classes", "Cooking lessons"],
+        "answer": "Free language classes"
+      }
+    ]
+  },
+
+  "7.1": {
+    "text": "Two paragraphs connected — short multi-paragraph text.",
+    "questions": [
+      {
+        "type": "inference",
+        "question": "Placeholder for Band 7 inference.",
+        "options": ["Option A", "Option B", "Option C"],
+        "answer": "Option B"
+      }
+    ]
+  },
+  "7.2": { "text": "Paragraph B", "questions": [{ "type": "inference", "question": "?", "options": ["A","B","C"], "answer": "A" }] },
+  "7.3": { "text": "Paragraph C", "questions": [{ "type": "purpose", "question": "?", "options": ["A","B","C"], "answer": "B" }] },
+  "7.4": { "text": "Paragraph D", "questions": [{ "type": "tone", "question": "?", "options": ["A","B","C"], "answer": "C" }] },
+  "7.5": { "text": "Paragraph E", "questions": [{ "type": "inference", "question": "?", "options": ["A","B","C"], "answer": "A" }] },
+
+  "8.1": { "text": "Multi-paragraph text", "questions": [{ "type": "inference", "question": "?", "options": ["A","B","C"], "answer": "A" }] },
+  "8.2": { "text": "Text B", "questions": [{ "type": "purpose", "question": "?", "options": ["A","B","C"], "answer": "B" }] },
+  "8.3": { "text": "Text C", "questions": [{ "type": "tone", "question": "?", "options": ["A","B","C"], "answer": "C" }] },
+  "8.4": { "text": "Text D", "questions": [{ "type": "summary", "question": "?", "options": ["A","B","C"], "answer": "A" }] },
+  "8.5": { "text": "Text E", "questions": [{ "type": "inference", "question": "?", "options": ["A","B","C"], "answer": "B" }] },
+
+  "9.1": { "text": "Long analytical passage", "questions": [{ "type": "bias", "question": "?", "options": ["A","B","C"], "answer": "A" }] },
+  "9.2": { "text": "Long passage 2", "questions": [{ "type": "evidence", "question": "?", "options": ["A","B","C"], "answer": "C" }] },
+  "9.3": { "text": "Long passage 3", "questions": [{ "type": "attitude", "question": "?", "options": ["A","B","C"], "answer": "B" }] },
+  "9.4": { "text": "Long passage 4", "questions": [{ "type": "summary", "question": "?", "options": ["A","B","C"], "answer": "A" }] },
+  "9.5": { "text": "Long passage 5", "questions": [{ "type": "evidence", "question": "?", "options": ["A","B","C"], "answer": "C" }] },
+
+  "10.1": { "text": "Academic passage 1", "questions": [{ "type": "analysis", "question": "?", "options": ["A","B","C"], "answer": "A" }] },
+  "10.2": { "text": "Academic passage 2", "questions": [{ "type": "bias", "question": "?", "options": ["A","B","C"], "answer": "C" }] },
+  "10.3": { "text": "Academic passage 3", "questions": [{ "type": "inference", "question": "?", "options": ["A","B","C"], "answer": "B" }] },
+  "10.4": { "text": "Academic passage 4", "questions": [{ "type": "evidence", "question": "?", "options": ["A","B","C"], "answer": "A" }] },
+  "10.5": { "text": "Academic passage 5", "questions": [{ "type": "attitude", "question": "?", "options": ["A","B","C"], "answer": "B" }] }
 }
