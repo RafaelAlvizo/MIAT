@@ -1,0 +1,24 @@
+{
+  "1.1": {
+    "text": "The dog is sleeping.",
+    "questions": [
+      {
+        "type": "literal",
+        "question": "What is the dog doing?",
+        "options": ["Running", "Sleeping", "Eating"],
+        "answer": "Sleeping"
+      }
+    ]
+  },
+  "3.1": {
+    "text": "Tom went to the store because he needed milk.",
+    "questions": [
+      {
+        "type": "cause",
+        "question": "Why did Tom go to the store?",
+        "options": ["To buy milk", "To meet a friend", "To get bread"],
+        "answer": "To buy milk"
+      }
+    ]
+  }
+}
