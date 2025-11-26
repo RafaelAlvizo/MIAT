@@ -1,4 +1,4 @@
-import passages from "../../../data/reading_fragments.json";
+import passages from "@/data/reading_fragments.json";
 
 export async function GET(req) {
   try {
@@ -18,13 +18,16 @@ export async function GET(req) {
 
     if (!fragment) {
       return Response.json(
-        { error: "Fragment not found" },
+        { error: `Fragment ${key} not found` },
         { status: 404 }
       );
     }
 
     return Response.json(fragment);
   } catch (err) {
-    return Response.json({ error: err.message }, { status: 500 });
+    return Response.json(
+      { error: err.message },
+      { status: 500 }
+    );
   }
 }

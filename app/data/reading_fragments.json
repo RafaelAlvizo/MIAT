@@ -67,13 +67,13 @@
     ]
   },
   "2.2": {
-    "text": "The bus arrives at 10 o’clock every day.",
+    "text": "The bus arrives at ten o’clock every day.",
     "questions": [
       {
         "type": "literal",
         "question": "When does the bus arrive?",
-        "options": ["9 o’clock", "10 o’clock", "11 o’clock"],
-        "answer": "10 o’clock"
+        "options": ["Nine o’clock", "Ten o’clock", "Eleven o’clock"],
+        "answer": "Ten o’clock"
       }
     ]
   },
@@ -336,36 +336,306 @@
   },
 
   "7.1": {
-    "text": "Two paragraphs connected — short multi-paragraph text.",
+    "text": "Many cities are planting small urban forests between buildings and along busy roads. These green spaces do not look impressive at first, but over time they cool the air, reduce noise, and provide homes for birds and insects. Local schools often visit the forests to study plants, and nearby residents say they feel calmer when they walk through the trees after work. Some shop owners were worried that the trees would block their windows, but they later noticed that customers stayed longer on the cooler, shaded streets.",
     "questions": [
       {
         "type": "inference",
-        "question": "Placeholder for Band 7 inference.",
-        "options": ["Option A", "Option B", "Option C"],
-        "answer": "Option B"
+        "question": "What is the main benefit suggested by the paragraph about urban forests?",
+        "options": [
+          "They make shopping more expensive.",
+          "They improve the environment and well-being in the city.",
+          "They remove the need for public parks."
+        ],
+        "answer": "They improve the environment and well-being in the city."
       }
     ]
   },
-  "7.2": { "text": "Paragraph B", "questions": [{ "type": "inference", "question": "?", "options": ["A","B","C"], "answer": "A" }] },
-  "7.3": { "text": "Paragraph C", "questions": [{ "type": "purpose", "question": "?", "options": ["A","B","C"], "answer": "B" }] },
-  "7.4": { "text": "Paragraph D", "questions": [{ "type": "tone", "question": "?", "options": ["A","B","C"], "answer": "C" }] },
-  "7.5": { "text": "Paragraph E", "questions": [{ "type": "inference", "question": "?", "options": ["A","B","C"], "answer": "A" }] },
+  "7.2": {
+    "text": "When Sara moved to a new country, she decided to keep a daily voice diary on her phone. Every evening she recorded a short message about something that had surprised her: the crowded trains, the taste of local food, or the way people greeted each other in the street. After a few months, she listened again to the first recordings and realised how much her feelings had changed. What once sounded strange now felt normal, and some of the things that excited her at the beginning no longer seemed important.",
+    "questions": [
+      {
+        "type": "purpose",
+        "question": "Why did Sara keep a voice diary?",
+        "options": [
+          "To practise singing in another language.",
+          "To record how her experience and feelings changed over time.",
+          "To send daily reports to her manager."
+        ],
+        "answer": "To record how her experience and feelings changed over time."
+      }
+    ]
+  },
+  "7.3": {
+    "text": "At the community repair café, volunteers help neighbours fix broken objects instead of throwing them away. On Saturday mornings the old school gym fills with people carrying lamps that no longer light, chairs with loose legs, and radios that only play static. Some visitors simply watch while drinking coffee, learning how to use tools safely. The organisers say that very few repairs are perfect, but each successful fix saves money and keeps useful items out of the landfill.",
+    "questions": [
+      {
+        "type": "main-idea",
+        "question": "What is the main idea of the paragraph about the repair café?",
+        "options": [
+          "Volunteers sell second-hand tools.",
+          "People come together to repair items and reduce waste.",
+          "The gym is too small for community events."
+        ],
+        "answer": "People come together to repair items and reduce waste."
+      }
+    ]
+  },
+  "7.4": {
+    "text": "Online meetings were once considered a poor replacement for face-to-face discussions. However, many teams have discovered unexpected advantages. People who are usually quiet in the office often contribute more when they can type their ideas in the chat. Parents with small children appreciate the flexibility of working from home, and companies save money on travel. Still, some managers complain that creative ideas appear more slowly when everyone is staring at a screen.",
+    "questions": [
+      {
+        "type": "tone",
+        "question": "What is the writer's attitude toward online meetings?",
+        "options": [
+          "Completely negative: they are a poor replacement in every way.",
+          "Balanced: they have clear benefits but also some drawbacks.",
+          "Overly enthusiastic: they are better than in-person meetings in all cases."
+        ],
+        "answer": "Balanced: they have clear benefits but also some drawbacks."
+      }
+    ]
+  },
+  "7.5": {
+    "text": "The local council asked residents how they wanted to use an empty piece of land near the river. Some people argued for a car park to reduce congestion in the town centre. Others wanted a playground and sports area for children and teenagers. A smaller group proposed leaving the land wild to protect the plants that had already started to grow there. In the end, the council built a small car park at the edge and turned the rest into a park with walking paths, keeping the wild area closest to the water.",
+    "questions": [
+      {
+        "type": "inference",
+        "question": "What can be inferred about the council's final decision?",
+        "options": [
+          "It completely ignored residents' opinions.",
+          "It tried to balance different interests in the community.",
+          "It used the whole area only for parking."
+        ],
+        "answer": "It tried to balance different interests in the community."
+      }
+    ]
+  },
 
-  "8.1": { "text": "Multi-paragraph text", "questions": [{ "type": "inference", "question": "?", "options": ["A","B","C"], "answer": "A" }] },
-  "8.2": { "text": "Text B", "questions": [{ "type": "purpose", "question": "?", "options": ["A","B","C"], "answer": "B" }] },
-  "8.3": { "text": "Text C", "questions": [{ "type": "tone", "question": "?", "options": ["A","B","C"], "answer": "C" }] },
-  "8.4": { "text": "Text D", "questions": [{ "type": "summary", "question": "?", "options": ["A","B","C"], "answer": "A" }] },
-  "8.5": { "text": "Text E", "questions": [{ "type": "inference", "question": "?", "options": ["A","B","C"], "answer": "B" }] },
+  "8.1": {
+    "text": "For many years, scientists believed that people learn best by concentrating on a single task until it is finished. Recently, however, research on learning suggests a different approach. In one study, students who practised several skills in a mixed order remembered the material better than students who focused on only one skill at a time. Another study found that taking short breaks and switching to a related activity helped learners notice connections between ideas. Although this method can feel confusing in the moment, it seems to create stronger, longer-lasting memories. As a result, some teachers now design lessons that move back and forth between topics instead of following a straight line from chapter one to chapter ten.",
+    "questions": [
+      {
+        "type": "summary",
+        "question": "Which statement best summarises the passage?",
+        "options": [
+          "Students should always finish one topic before starting another.",
+          "Mixing related tasks and switching between them can improve learning.",
+          "Frequent breaks are harmful because they interrupt concentration."
+        ],
+        "answer": "Mixing related tasks and switching between them can improve learning."
+      }
+    ]
+  },
+  "8.2": {
+    "text": "City planners are rethinking how streets are designed. In many places, roads were built with one main goal: to move as many cars as possible as quickly as possible. This design made driving convenient, but it discouraged walking and cycling, and it created barriers between neighbourhoods. Today, some planners argue that streets should be viewed as public rooms rather than simple transport pipes. Wider sidewalks, protected bike lanes, and trees that provide shade can transform a busy road into a place where people want to spend time. Critics worry that these changes will slow traffic, but supporters say that safer, more pleasant streets attract business and improve public health.",
+    "questions": [
+      {
+        "type": "purpose",
+        "question": "Why does the author mention wider sidewalks and protected bike lanes?",
+        "options": [
+          "To show examples of features that make streets more people-friendly.",
+          "To argue that cars should be banned from city centres.",
+          "To explain why roads became dangerous in the past."
+        ],
+        "answer": "To show examples of features that make streets more people-friendly."
+      }
+    ]
+  },
+  "8.3": {
+    "text": "When an error appears in a newspaper, readers often assume it is the result of carelessness. Yet the process of producing a daily paper is extraordinarily complex. Reporters gather information from many sources, editors check facts and rewrite awkward sentences, and designers must fit the final text into limited space. A single misunderstanding at any point can lead to a mistake in print. Most journalists feel frustrated when this happens, because their professional reputation depends on accuracy. Nevertheless, critics rarely see the hours of careful work that succeeded; they see only the one incorrect name or missing number.",
+    "questions": [
+      {
+        "type": "tone",
+        "question": "What is the author's attitude toward journalists in this passage?",
+        "options": [
+          "Admiring but realistic about the difficulty of their work.",
+          "Openly hostile and dismissive of their efforts.",
+          "Completely uninterested in how newspapers are produced."
+        ],
+        "answer": "Admiring but realistic about the difficulty of their work."
+      }
+    ]
+  },
+  "8.4": {
+    "text": "In many countries, governments offer financial support to people who install solar panels on their homes. Supporters of these programmes argue that small rooftop systems, when combined, can produce as much energy as a large power plant. They also create local jobs for installers and engineers. Opponents, however, point out that subsidies are paid with public money, which could instead be invested in large wind farms or improved public transport. Others worry that only wealthier families can afford the remaining cost of panels, meaning that poorer households help fund a benefit they cannot access.",
+    "questions": [
+      {
+        "type": "inference",
+        "question": "Which conclusion is best supported by the passage?",
+        "options": [
+          "Solar subsidies have both economic and social consequences that must be weighed carefully.",
+          "Solar panels are clearly a waste of public money and should be banned.",
+          "Subsidies always make energy cheaper for the poorest households."
+        ],
+        "answer": "Solar subsidies have both economic and social consequences that must be weighed carefully."
+      }
+    ]
+  },
+  "8.5": {
+    "text": "Humour can be a powerful tool in serious situations. Doctors who treat children sometimes use simple magic tricks or hand puppets before a procedure. These distractions do not change the medical treatment, but they reduce fear and make it easier for the child to cooperate. In a similar way, speakers who begin a difficult conversation with a light, respectful joke often find that their audience listens more openly. Of course, humour must be used carefully; if a joke appears to minimise real pain or injustice, listeners may feel insulted rather than relaxed.",
+    "questions": [
+      {
+        "type": "main-idea",
+        "question": "What is the main idea of the passage?",
+        "options": [
+          "Humour, when used carefully, can reduce tension in serious situations.",
+          "Jokes are inappropriate in all professional settings.",
+          "Magic tricks are more important than medical treatment."
+        ],
+        "answer": "Humour, when used carefully, can reduce tension in serious situations."
+      }
+    ]
+  },
 
-  "9.1": { "text": "Long analytical passage", "questions": [{ "type": "bias", "question": "?", "options": ["A","B","C"], "answer": "A" }] },
-  "9.2": { "text": "Long passage 2", "questions": [{ "type": "evidence", "question": "?", "options": ["A","B","C"], "answer": "C" }] },
-  "9.3": { "text": "Long passage 3", "questions": [{ "type": "attitude", "question": "?", "options": ["A","B","C"], "answer": "B" }] },
-  "9.4": { "text": "Long passage 4", "questions": [{ "type": "summary", "question": "?", "options": ["A","B","C"], "answer": "A" }] },
-  "9.5": { "text": "Long passage 5", "questions": [{ "type": "evidence", "question": "?", "options": ["A","B","C"], "answer": "C" }] },
+  "9.1": {
+    "text": "For decades, nutritional advice focused on individual nutrients. Consumers were told to avoid fat, count grams of protein, or look for products that contained extra vitamins. Food companies quickly learned to market items as 'low-fat' or 'high in fibre', even when those products were highly processed and loaded with sugar. Recently, many nutrition researchers have begun to argue that this reductionist view is misleading. They suggest that the structure of a whole food and the overall pattern of a person’s diet matter far more than the precise amount of any single nutrient. A handful of nuts, for example, contains fat, but it also offers fibre, minerals, and a feeling of fullness that a low-fat biscuit cannot match. According to this perspective, the real problem is not fat or carbohydrates themselves, but the dominance of ultra-processed foods designed to be cheap, durable, and addictive. Critics of this view argue that it oversimplifies complex metabolic science; still, it has encouraged governments to design guidelines that emphasise cooking with basic ingredients rather than counting numbers on a label.",
+    "questions": [
+      {
+        "type": "bias",
+        "question": "Which statement best describes the author's stance?",
+        "options": [
+          "The author clearly supports the shift toward viewing whole diets rather than single nutrients.",
+          "The author believes traditional nutrient-based advice is completely correct and needs no change.",
+          "The author refuses to take any position on the issue."
+        ],
+        "answer": "The author clearly supports the shift toward viewing whole diets rather than single nutrients."
+      }
+    ]
+  },
+  "9.2": {
+    "text": "When a new technology appears, early discussions often focus on what is technically possible. Only later do societies consider what should be allowed. Facial-recognition systems provide a clear example. The software can already identify a person in a crowd with remarkable speed. Supporters say this capability can help locate missing children or find suspects after a crime. Civil-rights groups respond that constant surveillance changes how people behave in public spaces and gives authorities unprecedented power. They also point to evidence that some systems make more errors with darker-skinned faces, which could reinforce existing inequalities. Policymakers now face competing pressures: adopt the technology quickly in the name of security, or restrict its use until strong safeguards and clear rules are in place.",
+    "questions": [
+      {
+        "type": "evidence",
+        "question": "Which piece of evidence is used to support concerns about facial-recognition systems?",
+        "options": [
+          "Some systems are less accurate for people with darker skin tones.",
+          "The systems are very fast at identifying people.",
+          "The software is expensive to purchase."
+        ],
+        "answer": "Some systems are less accurate for people with darker skin tones."
+      }
+    ]
+  },
+  "9.3": {
+    "text": "Over the past century, the concept of a 'career for life' has steadily weakened. Previous generations often entered a single profession and remained there until retirement. Today, however, workers expect to change roles, employers, and even fields several times. Some commentators describe this shift as liberating: people can reinvent themselves and follow new interests. Others see a more uneasy picture in which constant change leaves workers anxious and unprotected. Temporary contracts and freelance arrangements may offer flexibility, but they also transfer risk from companies to individuals. When the economy slows, it is the independent contractor, not the corporation, who lacks health insurance or paid leave. As a result, the modern labour market can be read either as a story of exciting personal freedom or of quietly expanding insecurity.",
+    "questions": [
+      {
+        "type": "attitude",
+        "question": "How does the author view the change in career patterns?",
+        "options": [
+          "The author recognises both new freedoms and increased insecurity.",
+          "The author thinks the change is entirely positive.",
+          "The author believes the change has had no real effect."
+        ],
+        "answer": "The author recognises both new freedoms and increased insecurity."
+      }
+    ]
+  },
+  "9.4": {
+    "text": "In discussions of climate policy, people often compare individual actions—such as cycling to work or avoiding plastic bags—with large-scale measures like carbon taxes. Focusing on one level while ignoring the other can lead to unhelpful arguments. Individual choices alone cannot transform the energy system, yet political change is unlikely if voters are unwilling to adjust their own behaviour. Campaigners who succeed tend to connect the two levels: they organise visible public actions, such as car-free days in city centres, that also demonstrate what long-term policy changes might look like. In this way, personal experience prepares people to support broader structural reforms.",
+    "questions": [
+      {
+        "type": "summary",
+        "question": "Which option best summarises the passage?",
+        "options": [
+          "Individual behaviour and government policy must work together for effective climate action.",
+          "Personal lifestyle changes are unnecessary if governments pass strong laws.",
+          "Climate policy should focus only on educating voters about recycling."
+        ],
+        "answer": "Individual behaviour and government policy must work together for effective climate action."
+      }
+    ]
+  },
+  "9.5": {
+    "text": "Museums used to present themselves as neutral storehouses of culture, quietly displaying objects with little comment on how they were obtained. In recent years, that image has been challenged. Activists and historians have drawn attention to artworks and artefacts taken during colonial rule or acquired through unequal trade. Some institutions have begun to return items to their countries of origin, while others prefer long-term loans or shared exhibitions. Critics of restitution argue that moving objects risks damaging them and deprives global audiences of access. Supporters respond that keeping disputed items without permission sends a message that past injustices do not matter. The debate forces museums to decide whether they are primarily guardians of objects or partners in addressing historical harm.",
+    "questions": [
+      {
+        "type": "evidence",
+        "question": "Which sentence from the passage best illustrates the ethical dilemma faced by museums?",
+        "options": [
+          "Some institutions have begun to return items to their countries of origin.",
+          "Museums used to present themselves as neutral storehouses of culture.",
+          "Critics of restitution argue that moving objects risks damaging them and deprives global audiences of access."
+        ],
+        "answer": "Critics of restitution argue that moving objects risks damaging them and deprives global audiences of access."
+      }
+    ]
+  },
 
-  "10.1": { "text": "Academic passage 1", "questions": [{ "type": "analysis", "question": "?", "options": ["A","B","C"], "answer": "A" }] },
-  "10.2": { "text": "Academic passage 2", "questions": [{ "type": "bias", "question": "?", "options": ["A","B","C"], "answer": "C" }] },
-  "10.3": { "text": "Academic passage 3", "questions": [{ "type": "inference", "question": "?", "options": ["A","B","C"], "answer": "B" }] },
-  "10.4": { "text": "Academic passage 4", "questions": [{ "type": "evidence", "question": "?", "options": ["A","B","C"], "answer": "A" }] },
-  "10.5": { "text": "Academic passage 5", "questions": [{ "type": "attitude", "question": "?", "options": ["A","B","C"], "answer": "B" }] }
+  "10.1": {
+    "text": "Economists have long debated whether gross domestic product, or GDP, is an adequate measure of a country’s success. GDP adds up the value of all goods and services produced, but it says nothing about how that value is distributed or whether it was created in ways that damage future prosperity. A factory that pollutes a river contributes to GDP twice: once when it produces goods, and again when money is spent to clean the water. By contrast, unpaid care work—looking after children or elderly relatives—supports the economy but remains invisible in GDP statistics. In response, some researchers propose a broader dashboard of indicators that includes environmental health, levels of inequality, and measures of physical and mental well-being. Critics worry that such dashboards will be politically manipulated or too complex for public debate. Nonetheless, the growing interest in alternatives suggests that GDP is no longer viewed as the unquestioned scoreboard of national progress.",
+    "questions": [
+      {
+        "type": "analysis",
+        "question": "Why does the author describe both pollution cleanup and unpaid care work?",
+        "options": [
+          "To show two different ways GDP can misrepresent a country’s real well-being.",
+          "To argue that environmental damage is more serious than social inequality.",
+          "To prove that GDP is still the best available economic measure."
+        ],
+        "answer": "To show two different ways GDP can misrepresent a country’s real well-being."
+      }
+    ]
+  },
+  "10.2": {
+    "text": "University rankings attract intense attention from students, administrators, and politicians. Supporters claim that rankings provide a simple comparison of quality in a crowded education market. Yet the choice of indicators often reflects hidden assumptions. Lists that reward high research spending, for example, implicitly favour large, wealthy institutions, while undervaluing smaller universities that focus on teaching disadvantaged students. When governments tie funding to ranking positions, universities may redirect resources toward what is measured rather than what local communities actually need. Defenders of rankings respond that no system is perfect and that, despite their flaws, league tables push universities to improve. The real question, however, is who defines 'improvement' and whose interests are served by the chosen definition.",
+    "questions": [
+      {
+        "type": "bias",
+        "question": "What potential bias in university rankings does the author highlight?",
+        "options": [
+          "A bias toward large, research-intensive institutions over teaching-focused ones.",
+          "A bias in favour of universities that charge low tuition fees.",
+          "A bias that always benefits rural universities over urban ones."
+        ],
+        "answer": "A bias toward large, research-intensive institutions over teaching-focused ones."
+      }
+    ]
+  },
+  "10.3": {
+    "text": "Translations of classic literature are often treated as transparent windows into the original text, but they are better understood as interpretations. Each translator must decide how to handle wordplay, cultural references, and historical tone. A literal rendering may preserve the structure of the source language yet sound stiff or confusing to modern readers. A freer version can capture the emotional force of the work while quietly changing details. As languages evolve, new translations seek to correct what earlier versions left out or distorted. The result is that there is no single, definitive way to read a classic in another language; instead, there is an evolving conversation among translators about what matters most in the text.",
+    "questions": [
+      {
+        "type": "inference",
+        "question": "What can be inferred from the passage about classic texts in translation?",
+        "options": [
+          "Readers may benefit from comparing more than one translation of the same work.",
+          "Literal translations are always superior to freer versions.",
+          "Once a text is translated, it never needs to be translated again."
+        ],
+        "answer": "Readers may benefit from comparing more than one translation of the same work."
+      }
+    ]
+  },
+  "10.4": {
+    "text": "Public debates about artificial intelligence often swing between optimism and fear. Enthusiasts emphasise how machine-learning systems can detect diseases earlier, optimise energy use, or translate speech in real time. Critics warn that the same tools can be used to monitor workers, spread targeted misinformation, or replace jobs with little support for displaced employees. Both sides sometimes talk past each other because they focus on different time scales. Optimists highlight long-term benefits once systems are fully refined, while sceptics point to short-term harms experienced during messy deployment. Effective regulation will require acknowledging both sets of concerns and designing institutions that can adapt as the technology changes.",
+    "questions": [
+      {
+        "type": "evidence",
+        "question": "Which example from the passage illustrates a potential risk of AI?",
+        "options": [
+          "Detecting diseases earlier.",
+          "Replacing jobs without supporting affected workers.",
+          "Translating speech in real time."
+        ],
+        "answer": "Replacing jobs without supporting affected workers."
+      }
+    ]
+  },
+  "10.5": {
+    "text": "In many democracies, voter turnout among young adults is significantly lower than among older citizens. Commentators often blame apathy, suggesting that young people simply do not care about politics. Surveys, however, paint a more complex picture. Many young respondents report that they follow public issues closely but feel that traditional parties ignore their concerns about housing costs, climate change, and insecure employment. Some participate through online campaigns or local activism instead of formal elections. Lower turnout may therefore signal not a lack of interest, but a lack of faith that existing institutions can deliver meaningful change.",
+    "questions": [
+      {
+        "type": "attitude",
+        "question": "According to the passage, what is a more accurate interpretation of low youth turnout?",
+        "options": [
+          "Young adults are uninterested in any form of political activity.",
+          "Young adults are engaged but doubtful that voting will address their concerns.",
+          "Young adults do not understand basic political issues."
+        ],
+        "answer": "Young adults are engaged but doubtful that voting will address their concerns."
+      }
+    ]
+  }
 }
