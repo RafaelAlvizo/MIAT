@@ -27,9 +27,9 @@ export async function POST(req) {
     const scoringPrompt = `
 You are an English reading comprehension examiner.
 
-You will receive a list of reading tasks with:
+You will receive a list of reading tasks. Each task includes:
 - band (1–5)
-- text (the passage)
+- text
 - question
 - taskType ("mcq" | "tf" | "short")
 - options (for mcq)
@@ -37,17 +37,33 @@ You will receive a list of reading tasks with:
 - userAnswer
 
 Your job:
-1) For each task, decide if the user's answer is correct.
-2) For MCQ/TF, correctness is objective.
-3) For "short", use semantic similarity: if meaning matches the correct answer, mark as correct.
-4) Assign each task a score 0–100.
-5) Compute overall reading score (0–100).
-6) Estimate the student's reading level on a 1.1–10.10 scale using performance AND bands:
-   - Band 1 → ~1.1–2.10
-   - Band 2 → ~3.1–4.10
-   - Band 3 → ~5.1–6.10
-   - Band 4 → ~7.1–8.10
-   - Band 5 → ~9.1–10.10
+
+1) Determine correctness for each task:
+   - MCQ/TF: exact match (“A” = “A”).
+   - Short answer: evaluate semantic similarity. If meaning matches the correct answer, mark correct.
+
+2) Apply difficulty weighting:
+   Each band has a weight equal to its band number:
+     - Band 1 = 1
+     - Band 2 = 2
+     - Band 3 = 3
+     - Band 4 = 4
+     - Band 5 = 5
+
+3) Score each task:
+   scoreContribution = weight * (1 if correct, 0 if wrong)
+   Also provide feedback.
+
+4) Compute totals:
+   weightedScore = sum of scoreContributions
+   maxWeightedScore = sum of all weights
+   performanceIndex = weightedScore / maxWeightedScore   // between 0 and 1
+
+5) Convert to final reading level (1.1–10.10 scale):
+   estimatedLevel = 1.1 + performanceIndex * (10.10 - 1.1)
+   Round to one decimal place.
+
+6) overallScore = performanceIndex * 100 (0–100)
 
 Return STRICT JSON ONLY:
 
@@ -57,7 +73,7 @@ Return STRICT JSON ONLY:
       "index": number,
       "band": number,
       "isCorrect": boolean,
-      "score": number,
+      "scoreContribution": number,
       "feedback": "short comment"
     }
   ],
@@ -83,6 +99,7 @@ ${JSON.stringify(tasks, null, 2)}
     const parsed = safeParseJSON(content);
 
     return Response.json(parsed, { status: 200 });
+
   } catch (err) {
     return Response.json(
       { error: err.message },
