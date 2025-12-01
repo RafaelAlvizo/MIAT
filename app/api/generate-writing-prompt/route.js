@@ -1,57 +1,37 @@
-import OpenAI from "openai";
-
-const client = new OpenAI({
-  apiKey: process.env.DEEPSEEK_API_KEY,
-  baseURL: "https://api.deepseek.com"
-});
+import { promises as fs } from "fs";
+import path from "path";
 
 export async function POST(req) {
   try {
-    const { taskType, index } = await req.json();
+    const { tier } = await req.json();
 
-    if (!taskType) {
-      return Response.json({ error: "Missing taskType" }, { status: 400 });
+    if (!tier) {
+      return Response.json(
+        { error: "Missing 'tier'. Use A, B, or C." },
+        { status: 400 }
+      );
     }
 
-    // Default index if not provided
-    const n = index || 1;
+    const filePath = path.join(process.cwd(), "data", "writing_prompts.json");
+    const fileData = await fs.readFile(filePath, "utf8");
+    const prompts = JSON.parse(fileData);
 
-    const prompt = `
-You are a test item generator for writing assessments.
+    if (!prompts[tier]) {
+      return Response.json(
+        { error: "Invalid tier. Use A, B, or C." },
+        { status: 404 }
+      );
+    }
 
-Generate one writing prompt.
+    // get random prompt
+    const list = prompts[tier];
+    const prompt = list[Math.floor(Math.random() * list.length)];
 
-Task type: ${taskType}
-Item number: ${n}
-
-Rules:
-SCR (1–3 sentences):
-  - item 1 => personal narrative
-  - item 2 => explanation or “rewrite”
-  - item 3 => summary or transformation
-Paragraph:
-  - universal topic, general audience
-Essay:
-  - argumentative or discussion-type
-
-Return ONLY JSON:
-{
-  "prompt": "string",
-  "taskType": "${taskType}",
-  "index": ${n}
-}
-`;
-
-    const response = await client.chat.completions.create({
-      model: "deepseek-chat",
-      response_format: { type: "json_object" },
-      messages: [
-        { role: "system", content: "Return only JSON. No text outside JSON." },
-        { role: "user", content: prompt }
-      ]
+    return Response.json({
+      prompt,
+      tier
     });
 
-    return Response.json(JSON.parse(response.choices[0].message.content));
   } catch (err) {
     return Response.json({ error: err.message }, { status: 500 });
   }
