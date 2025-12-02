@@ -3,33 +3,22 @@ import path from "path";
 
 export async function POST(req) {
   try {
-    const { tier } = await req.json();
-
-    if (!tier) {
-      return Response.json(
-        { error: "Missing 'tier'. Use A, B, or C." },
-        { status: 400 }
-      );
-    }
-
     const filePath = path.join(process.cwd(), "data", "writing_prompts.json");
     const fileData = await fs.readFile(filePath, "utf8");
     const prompts = JSON.parse(fileData);
 
-    if (!prompts[tier]) {
-      return Response.json(
-        { error: "Invalid tier. Use A, B, or C." },
-        { status: 404 }
-      );
-    }
+    // Combine all tiers into a single flat list
+    const allPrompts = [
+      ...prompts.A,
+      ...prompts.B,
+      ...prompts.C
+    ];
 
-    // get random prompt
-    const list = prompts[tier];
-    const prompt = list[Math.floor(Math.random() * list.length)];
+    // Randomly select one prompt
+    const prompt = allPrompts[Math.floor(Math.random() * allPrompts.length)];
 
     return Response.json({
-      prompt,
-      tier
+      prompt
     });
 
   } catch (err) {
