@@ -1,0 +1,1502 @@
+{
+  "1.1": {
+    "text": "Ella está en la casa.",
+    "questions": [
+      {
+        "type": "literal",
+        "question": "¿Dónde está ella?",
+        "options": [
+          "En la casa",
+          "En el carro",
+          "En la escuela"
+        ],
+        "answer": "En la casa"
+      }
+    ]
+  },
+  "1.2": {
+    "text": "Yo nunca tomo café por la noche. Es tarde y quiero dormir bien.",
+    "questions": [
+      {
+        "type": "literal",
+        "question": "¿Cuándo no toma café la persona?",
+        "options": [
+          "Por la noche",
+          "Por la mañana",
+          "Al mediodía"
+        ],
+        "answer": "Por la noche"
+      }
+    ]
+  },
+  "1.3": {
+    "text": "Durante la semana pasada, mi familia usó el carro nuevo. Ahora todos están muy contentos con el cambio.",
+    "questions": [
+      {
+        "type": "literal",
+        "question": "¿Qué usó la familia la semana pasada?",
+        "options": [
+          "El carro nuevo",
+          "La casa nueva",
+          "El teléfono nuevo"
+        ],
+        "answer": "El carro nuevo"
+      }
+    ]
+  },
+  "1.4": {
+    "text": "El grupo de estudiantes llegó a la clase. Además de los libros, trajeron algunas armas para la demostración de la guerra. Es difícil entender ese momento de la historia.",
+    "questions": [
+      {
+        "type": "literal",
+        "question": "¿Qué trajeron los estudiantes además de los libros?",
+        "options": [
+          "Armas para la demostración",
+          "Comida para todos",
+          "Ropa para cambiar"
+        ],
+        "answer": "Armas para la demostración"
+      }
+    ]
+  },
+  "1.5": {
+    "text": "La nueva ley es difícil de entender. Mi novio llamó por teléfono para preguntar sobre el servicio especial. Le dijeron que todo cuesta cinco dólares, pero eso parece muy extraño y malo para la gente.",
+    "questions": [
+      {
+        "type": "literal",
+        "question": "¿Cuánto cuesta el servicio especial?",
+        "options": [
+          "Cinco dólares",
+          "Diez dólares",
+          "Es gratis"
+        ],
+        "answer": "Cinco dólares"
+      }
+    ]
+  },
+  "1.6": {
+    "text": "Mi abuelo hizo un viaje perfecto el año pasado. Visitó la oficina principal y continuó hasta la universidad. El oficial le mostró una imagen rara del espacio. Después del viaje, mi abuelo despertó con una nueva perspectiva sobre la vida.",
+    "questions": [
+      {
+        "type": "literal",
+        "question": "¿Qué le mostró el oficial al abuelo?",
+        "options": [
+          "Una imagen rara del espacio",
+          "Un libro antiguo",
+          "Una foto de la familia"
+        ],
+        "answer": "Una imagen rara del espacio"
+      }
+    ]
+  },
+  "1.7": {
+    "text": "El caballero caminó por la universidad con su cargo oficial. Detrás de él, un grupo de personas cantaba. La posibilidad de proteger a todos era su consejo más importante. Había abandonado su trabajo anterior para sufrir menos y ayudar a la comunidad abierta.",
+    "questions": [
+      {
+        "type": "literal",
+        "question": "¿Por qué abandonó su trabajo anterior el caballero?",
+        "options": [
+          "Para sufrir menos",
+          "Para ganar más dinero",
+          "Para viajar al extranjero"
+        ],
+        "answer": "Para sufrir menos"
+      }
+    ]
+  },
+  "1.8": {
+    "text": "En mi mente, la diferencia entre el precio del año pasado y el de este año es clara. Formaron una nueva especie de medida para cortar los costos. Siete personas estudian la opinión pública sobre esta posición. El suelo donde construyen tiene un valor especial para la comunidad.",
+    "questions": [
+      {
+        "type": "literal",
+        "question": "¿Cuántas personas estudian la opinión pública?",
+        "options": [
+          "Siete personas",
+          "Cinco personas",
+          "Diez personas"
+        ],
+        "answer": "Siete personas"
+      }
+    ]
+  },
+  "1.9": {
+    "text": "Nadie quiere apostar en esta cuestión del crimen. El presente caso es complejo: acordaron enfrentar el motivo real detrás de los datos. En la boda, las flores representaban la unidad y el éxito. Algunos odian hablar de este tipo de eventos, pero es necesario para entender el montón de información disponible.",
+    "questions": [
+      {
+        "type": "literal",
+        "question": "¿Qué representaban las flores en la boda?",
+        "options": [
+          "La unidad y el éxito",
+          "El amor y la paz",
+          "La familia y los amigos"
+        ],
+        "answer": "La unidad y el éxito"
+      }
+    ]
+  },
+  "1.10": {
+    "text": "Durante esa época, la discusión sobre la opción más viable creció. El peso de la esperanza era enorme para la ciudad. Muchos querían seguir adelante con el plan, pero otros preferían esperar. La decisión final dependía de varios factores económicos y sociales que afectaban a toda la población.",
+    "questions": [
+      {
+        "type": "literal",
+        "question": "¿De qué dependía la decisión final?",
+        "options": [
+          "De factores económicos y sociales",
+          "De la opinión de una persona",
+          "Del clima de la región"
+        ],
+        "answer": "De factores económicos y sociales"
+      }
+    ]
+  },
+  "2.1": {
+    "text": "Con permiso del director, la función comenzó. El apoyo popular al nuevo estilo de gobierno civil era evidente. La estación de tren estableció un servicio especial para sobrevivir la crisis. Era el cumpleaños de María, y todos celebraban en el planeta más hermoso que jamás habían visto. Lanzaron un material innovador que mostraba el espíritu de respeto hacia la comunidad.",
+    "questions": [
+      {
+        "type": "literal",
+        "question": "¿Qué estableció la estación de tren?",
+        "options": [
+          "Un servicio especial",
+          "Un nuevo horario",
+          "Una nueva ruta"
+        ],
+        "answer": "Un servicio especial"
+      }
+    ]
+  },
+  "2.2": {
+    "text": "El coronel no pudo aguantar más la situación. Su mirada orgullosa mostraba la producción de años de trabajo. En la fecha indicada, registraron el anuncio de una nueva responsabilidad. La población esperaba con ansias el elemento que faltaba: los huevos frescos para preparar la cena especial. Era un momento ocupado pero necesario.",
+    "questions": [
+      {
+        "type": "literal",
+        "question": "¿Qué elemento faltaba según la población?",
+        "options": [
+          "Los huevos frescos",
+          "El pan fresco",
+          "La carne fresca"
+        ],
+        "answer": "Los huevos frescos"
+      }
+    ]
+  },
+  "2.3": {
+    "text": "El carácter del sospechoso cambió durante la crisis. En el exterior del edificio policial, insistieron en identificar al herido. La ceremonia de continuación tuvo gran importancia para todos. Constituyeron una práctica nueva: aprovecharon el aviso para hacer una compra significativa en el mercado. El cuello de su camisa mostraba señales del incidente.",
+    "questions": [
+      {
+        "type": "literal",
+        "question": "¿Dónde insistieron en identificar al herido?",
+        "options": [
+          "En el exterior del edificio policial",
+          "Dentro del hospital",
+          "En la casa del sospechoso"
+        ],
+        "answer": "En el exterior del edificio policial"
+      }
+    ]
+  },
+  "2.4": {
+    "text": "El cuento que escribió para la revista del Congreso era fascinante. Viajó varios kilómetros con un mínimo de recursos. El viernes, poseyó la oportunidad de mostrar diversos archivos importantes. En el plato había algo extraño: un disco que parecía contener información sobre un rayo de luz. La carga emocional de aquel momento era evidente para todos los presentes.",
+    "questions": [
+      {
+        "type": "literal",
+        "question": "¿Qué día mostró los archivos importantes?",
+        "options": [
+          "El viernes",
+          "El lunes",
+          "El sábado"
+        ],
+        "answer": "El viernes"
+      }
+    ]
+  },
+  "2.5": {
+    "text": "El criminal intentó revelar la verdad, pero la actividad duró muy poco. Montaron una firma original que mostraba respeto hacia la conciencia moral de la sociedad. La construcción histórica tenía una belleza única. El escritor, aunque débil físicamente, manifestó una fuerza mental impresionante durante todo el proceso de investigación.",
+    "questions": [
+      {
+        "type": "literal",
+        "question": "¿Qué tipo de belleza tenía la construcción histórica?",
+        "options": [
+          "Una belleza única",
+          "Una belleza moderna",
+          "Una belleza artificial"
+        ],
+        "answer": "Una belleza única"
+      }
+    ]
+  },
+  "2.6": {
+    "text": "El representante mexicano de la asociación presentó una ventaja importante. Interrumpió la reunión para fingir que todo estaba bien, pero la lluvia afuera revelaba otra versión de los eventos. La meta era clara: cargar el motor del autobús y llegar a la república antes del anochecer. El enfermero organizó los pantalones y otros artículos de manera eficiente.",
+    "questions": [
+      {
+        "type": "literal",
+        "question": "¿Cuál era la meta clara?",
+        "options": [
+          "Cargar el motor y llegar a la república",
+          "Terminar la reunión rápido",
+          "Comprar ropa nueva"
+        ],
+        "answer": "Cargar el motor y llegar a la república"
+      }
+    ]
+  },
+  "2.7": {
+    "text": "En mayo, la sesión del comité fue fundamental. Dispusieron de un marco especial para analizar la reacción del organismo activo. Las características de la frase relacionaban conceptos similares sobre la crianza de animales. Había helado en la celebración, y todos disfrutaron de la roca decorativa que simbolizaba la unión del grupo.",
+    "questions": [
+      {
+        "type": "literal",
+        "question": "¿En qué mes fue la sesión del comité?",
+        "options": [
+          "En mayo",
+          "En junio",
+          "En abril"
+        ],
+        "answer": "En mayo"
+      }
+    ]
+  },
+  "2.8": {
+    "text": "La temperatura aumentó durante la entrega del proyecto. Determinaron que la apuesta era atractiva para adquirir nuevos recursos. Grabaron la escena en el espejo del museo, mostrando el crecimiento de la inteligencia artificial. La criatura observada violó las reglas establecidas. En septiembre, la obligación de presentar los resultados generó estrés en el equipo investigador.",
+    "questions": [
+      {
+        "type": "literal",
+        "question": "¿Cuándo generó estrés la obligación de presentar resultados?",
+        "options": [
+          "En septiembre",
+          "En octubre",
+          "En agosto"
+        ],
+        "answer": "En septiembre"
+      }
+    ]
+  },
+  "2.9": {
+    "text": "Rápidamente, el curioso senador extendió la moda de los nuevos instrumentos musicales. El genio demostró cómo dominar la democracia a través del diálogo. Encerraron al lobo en la tumba antigua durante la tormenta. La taza que usaba contenía un líquido especial. Trasladaron todo el equipo a una nueva ubicación para continuar con el experimento científico.",
+    "questions": [
+      {
+        "type": "literal",
+        "question": "¿Dónde encerraron al lobo?",
+        "options": [
+          "En la tumba antigua",
+          "En una jaula moderna",
+          "En el bosque cercano"
+        ],
+        "answer": "En la tumba antigua"
+      }
+    ]
+  },
+  "2.10": {
+    "text": "El servicio de salud es gratis en esta región, lo cual beneficia a todos los ciudadanos. Las tropas dirigentes, según lo previsto, llegaron al punto de encuentro a tiempo. El dirigente explicó que mantener una población sana requiere esfuerzo continuo y dedicación constante. Los recursos disponibles se distribuyen equitativamente entre todas las comunidades necesitadas.",
+    "questions": [
+      {
+        "type": "literal",
+        "question": "¿Cómo es el servicio de salud en esta región?",
+        "options": [
+          "Es gratis",
+          "Es muy caro",
+          "Es solo para militares"
+        ],
+        "answer": "Es gratis"
+      }
+    ]
+  },
+  "3.1": {
+    "text": "El espectáculo fue magnífico. Animaron al equipo habitual con un dicho popular que había sido transmitido por generaciones. La instrucción sobre la llegada del encargado fue clara: debía presentar su billete antes de agosto. El estómago de los participantes estaba afectado por la disposición de los alimentos. Los involucrados quedaron parados esperando nuevas directrices sobre cómo proceder con la situación.",
+    "questions": [
+      {
+        "type": "literal",
+        "question": "¿Antes de qué mes debía presentar su billete el encargado?",
+        "options": [
+          "Antes de agosto",
+          "Antes de julio",
+          "Antes de septiembre"
+        ],
+        "answer": "Antes de agosto"
+      }
+    ]
+  },
+  "3.2": {
+    "text": "La charla sobre el cierre del concurso fue productiva. El ayuntamiento decidió exponer la información anteriormente clasificada sobre la entidad educativa. El botón universitario se distribuyó a todos los que recorrieron el campus. La biblioteca recibió una colección religiosa valiosa. Los interrogaron el miércoles sobre los detalles de la operación y las decisiones tomadas durante el proceso.",
+    "questions": [
+      {
+        "type": "literal",
+        "question": "¿Qué día los interrogaron?",
+        "options": [
+          "El miércoles",
+          "El martes",
+          "El jueves"
+        ],
+        "answer": "El miércoles"
+      }
+    ]
+  },
+  "3.3": {
+    "text": "Lamentaron la ausencia de una continuación clara en la ceremonia policial. El aviso sobre el significado de la chaqueta noble causó sorpresa. Basaron su iniciativa en el consumo de productos locales. El ave pagada reclamó su espacio en el mercado tradicional. Los organizadores trabajaron arduamente para asegurar que todos los detalles estuvieran perfectamente coordinados.",
+    "questions": [
+      {
+        "type": "literal",
+        "question": "¿En qué basaron su iniciativa?",
+        "options": [
+          "En el consumo de productos locales",
+          "En la importación internacional",
+          "En la tecnología moderna"
+        ],
+        "answer": "En el consumo de productos locales"
+      }
+    ]
+  },
+  "3.4": {
+    "text": "Rastrearon las huellas hasta encontrar el hierro. El científico estaba acostumbrado a inclinar el microscopio para que brillara la muestra correctamente. Completaron el experimento con una tasa solar favorable. Ataron a la serpiente en el armario como medida de seguridad. El desafío de convocar a todos los expertos fue superado exitosamente. El trozo de evidencia resultó ser crucial para resolver el misterio.",
+    "questions": [
+      {
+        "type": "literal",
+        "question": "¿Dónde ataron a la serpiente?",
+        "options": [
+          "En el armario",
+          "En el jardín",
+          "En el laboratorio"
+        ],
+        "answer": "En el armario"
+      }
+    ]
+  },
+  "3.5": {
+    "text": "El ingeniero presentó una fórmula innovadora basada en la poesía matemática. Los bienes se distribuyeron sin avergonzar a nadie. Opusieron resistencia cuando intentaron situar la fábrica cerca de la escuela. El consejero, alejado de la controversia, dibujó un plan alternativo. El cazador cortado por el accidente se recuperó rápidamente gracias a la atención médica eficiente.",
+    "questions": [
+      {
+        "type": "literal",
+        "question": "¿Qué presentó el ingeniero?",
+        "options": [
+          "Una fórmula innovadora",
+          "Un edificio nuevo",
+          "Un libro de poesía"
+        ],
+        "answer": "Una fórmula innovadora"
+      }
+    ]
+  },
+  "3.6": {
+    "text": "Ejecutaron el plan con precisión, ofreciendo una recompensa al especialista gris. El rumbo satisfecho los llevó hacia nuevos horizontes. El pintor, considerando los antecedentes históricos, decidió gobernar su estudio de manera diferente. Lentamente, almacenaron el arroz y otros suministros. El tanque de video capturó imágenes impresionantes de la prostituta hablando sobre reformas sociales necesarias. La crema utilizada en la ceremonia tenía propiedades especiales.",
+    "questions": [
+      {
+        "type": "literal",
+        "question": "¿A quién ofrecieron una recompensa?",
+        "options": [
+          "Al especialista gris",
+          "Al pintor famoso",
+          "Al director del proyecto"
+        ],
+        "answer": "Al especialista gris"
+      }
+    ]
+  },
+  "3.7": {
+    "text": "El resultado esperado llegó finalmente. La sede principal decidió sujetar la dosis recomendada. La grabación del evento incluyó referencias al petróleo y su impacto ambiental. El bailarín mostró una recuperación notable después de la lesión. La presidencia conectada con las bases populares implementó reformas importantes. El apellido de la familia era reconocido en toda la región por su contribución a la colina adorable.",
+    "questions": [
+      {
+        "type": "literal",
+        "question": "¿Qué mostró el bailarín después de la lesión?",
+        "options": [
+          "Una recuperación notable",
+          "Un nuevo estilo de baile",
+          "Una actitud negativa"
+        ],
+        "answer": "Una recuperación notable"
+      }
+    ]
+  },
+  "3.8": {
+    "text": "La feria fue un éxito rotundo. Sobraron recursos después del evento principal. El arco comenzó a sangrar simbólicamente en la presentación artística. El artista argentino expresó su opinión sobre temas emocionantes que apetecían a la audiencia. Los espectadores aplaudieron con aliento renovado. La flota de músculos metafóricos representaba la postura del movimiento. La mejora esperada llegó cuando recurrieron al paro estratégico.",
+    "questions": [
+      {
+        "type": "literal",
+        "question": "¿De qué nacionalidad era el artista?",
+        "options": [
+          "Argentino",
+          "Mexicano",
+          "Español"
+        ],
+        "answer": "Argentino"
+      }
+    ]
+  },
+  "3.9": {
+    "text": "El pico de la montaña ofrecía una vista del costado oriental. El sufrimiento de la comunidad era evidente. Programaron todo en la lata antigua que encontraron. Impulsaron una iniciativa desde la alteza del cementerio hasta el cuartel. El comando prometió promover cambios limitados. La transmisión provino de una fuente desconocida, causando molestia entre los técnicos responsables del monitoreo.",
+    "questions": [
+      {
+        "type": "literal",
+        "question": "¿Qué causó la transmisión entre los técnicos?",
+        "options": [
+          "Molestia",
+          "Alegría",
+          "Indiferencia"
+        ],
+        "answer": "Molestia"
+      }
+    ]
+  },
+  "3.10": {
+    "text": "El olvido de las instrucciones importantes casi causa un desastre. La tripulación del barco trabajó sin descanso para mantener todo en orden. Los pulmones del paciente mostraron mejoría después del tratamiento. Proyectaron una oración especial durante la ceremonia religiosa. Los detalles del plan se discutieron exhaustivamente para evitar errores. La comunidad entera participó en la recuperación de los valores tradicionales que se habían perdido con el tiempo.",
+    "questions": [
+      {
+        "type": "literal",
+        "question": "¿Qué casi causa un desastre?",
+        "options": [
+          "El olvido de las instrucciones",
+          "La tormenta nocturna",
+          "La falta de recursos"
+        ],
+        "answer": "El olvido de las instrucciones"
+      }
+    ]
+  },
+  "4.1": {
+    "text": "El problema cardíaco del paciente requería atención inmediata. La lealtad demostrada por el equipo resultó en una reducción significativa de los riesgos. El gráfico mostró una ruta de escape clara durante el caos. El acero utilizado en la construcción era de alta calidad. Se apresuraron a implementar la cooperación internacional. El plástico reciclado formaba parte de la publicación sobre genes y biodiversidad. Adonde fueron, bañaron a los animales antes de la presentación. La desaparición del documento causó preocupación generalizada.",
+    "questions": [
+      {
+        "type": "literal",
+        "question": "¿Qué mostró el gráfico?",
+        "options": [
+          "Una ruta de escape",
+          "Los resultados financieros",
+          "Un mapa del tesoro"
+        ],
+        "answer": "Una ruta de escape"
+      }
+    ]
+  },
+  "4.2": {
+    "text": "El privilegio de presidir la ceremonia fue otorgado al turista más destacado. El evento espectacular era conveniente para todos los asistentes. Posteriormente, el cirujano sometido al protocolo estricto realizó la operación. El embarazo existente de la paciente complicaba el procedimiento. El globo utilizado en la demostración contenía un gas especial. Protestaron contra el ángulo injusto de las decisiones gubernamentales. Los gusanos encontrados en el jardín eran objeto de estudio científico.",
+    "questions": [
+      {
+        "type": "literal",
+        "question": "¿A quién fue otorgado el privilegio de presidir?",
+        "options": [
+          "Al turista más destacado",
+          "Al científico principal",
+          "Al alcalde de la ciudad"
+        ],
+        "answer": "Al turista más destacado"
+      }
+    ]
+  },
+  "4.3": {
+    "text": "El ritual de la ceremonia incluía elementos tradicionales. El reportero llevaba una corbata especial durante la entrevista. La reflexión profunda sobre el pasaje histórico generó satisfacción intelectual. Los insectos encontrados en el sitio eran objeto de estudio. El viajero exploraba nuevas rutas, considerando cada opción como un récord potencial. El cuñado severo opinaba que la situación era injusta para todos. La mosca en el laboratorio se escapó durante un momento de distracción.",
+    "questions": [
+      {
+        "type": "literal",
+        "question": "¿Qué llevaba el reportero durante la entrevista?",
+        "options": [
+          "Una corbata especial",
+          "Un sombrero antiguo",
+          "Unos zapatos nuevos"
+        ],
+        "answer": "Una corbata especial"
+      }
+    ]
+  },
+  "4.4": {
+    "text": "El grupo se emborrachó durante la celebración del pueblo. El lazo que unía a la comunidad era fuerte. La ubicación forzada del edificio en la cuadra causó controversia. El hígado del paciente mostraba señales de recuperación. La pandilla del barrio organizó un evento con limón y especias catalanas. Acogieron al arquitecto con entusiasmo. El engaño trágico interfirió con los planes originales. La miseria económica afectaba a muchas familias de la región.",
+    "questions": [
+      {
+        "type": "literal",
+        "question": "¿Qué mostró el hígado del paciente?",
+        "options": [
+          "Señales de recuperación",
+          "Signos de enfermedad",
+          "Ningún cambio"
+        ],
+        "answer": "Señales de recuperación"
+      }
+    ]
+  },
+  "4.5": {
+    "text": "Subrayaron la importancia del movimiento sindical en el contexto del terrorismo moderno. La herencia recibida incluía propiedades de lana mojada que requerían cuidado especial. Proveyeron iluminación parcial durante el evento. La falda tradicional africana se exhibió en el casino local. La transferencia de fondos fue crucial para el proyecto. Los ingredientes crudos destacados en la presentación culinaria impresionaron a los jueces internacionales del concurso gastronómico.",
+    "questions": [
+      {
+        "type": "literal",
+        "question": "¿Qué se exhibió en el casino local?",
+        "options": [
+          "La falda tradicional africana",
+          "Pinturas europeas",
+          "Esculturas modernas"
+        ],
+        "answer": "La falda tradicional africana"
+      }
+    ]
+  },
+  "4.6": {
+    "text": "El equipo especializado investigó al presunto culpable. Cavaron en el terreno buscando evidencias del duelo histórico. El bendito perfume del hermanito provocó sonrisas. Enhorabuena por los logros paralelos alcanzados. La certeza del afecto hacia el reverendo era evidente. Falleció desafortunadamente antes de ver terminada la autopista que conectaría las comunidades rurales con la ciudad principal. Su legado permanecerá por generaciones venideras.",
+    "questions": [
+      {
+        "type": "literal",
+        "question": "¿Qué buscaban al cavar en el terreno?",
+        "options": [
+          "Evidencias del duelo histórico",
+          "Tesoros enterrados",
+          "Fósiles antiguos"
+        ],
+        "answer": "Evidencias del duelo histórico"
+      }
+    ]
+  },
+  "4.7": {
+    "text": "El objetivo era liderar la iniciativa y estimular el cambio social. La invasión cultural fue tema de debate. Algunos hablaban de conspiración, mientras otros preferían un resumen objetivo de los hechos. La hembra del grupo mostró liderazgo excepcional durante la transición. El ajuste empresarial fue necesario después de insinuar cambios estructurales. Charlaron sobre temas celebrados en círculos intelectuales. El barro del terreno complicaba la construcción, pero no abusaron de los recursos naturales disponibles. La propuesta circular beneficiaba a todos.",
+    "questions": [
+      {
+        "type": "literal",
+        "question": "¿Qué mostró la hembra del grupo?",
+        "options": [
+          "Liderazgo excepcional",
+          "Comportamiento pasivo",
+          "Desinterés total"
+        ],
+        "answer": "Liderazgo excepcional"
+      }
+    ]
+  },
+  "4.8": {
+    "text": "La mejilla del niño mostraba señales del incidente. La crónica del evento fue escrita justamente como ocurrió. El vientre de la estatua contenía un mensaje secreto sobre la precisión necesaria en la arquitectura antigua. Los participantes de la competición oraron antes del inicio. El calendario marcaba una fecha importante relacionada con el trauma colectivo. La brigada especial fumaba cigarros mientras esperaba órdenes. La coca producida en la región tenía características únicas que la distinguían en el mercado internacional.",
+    "questions": [
+      {
+        "type": "literal",
+        "question": "¿Qué contenía el vientre de la estatua?",
+        "options": [
+          "Un mensaje secreto",
+          "Monedas antiguas",
+          "Documentos históricos"
+        ],
+        "answer": "Un mensaje secreto"
+      }
+    ]
+  },
+  "4.9": {
+    "text": "Intentaron aliviar el sufrimiento de la población afectada. El concepto de alienígena en la tarifa causó objeción inmediata. La antigüedad del objeto encontrado en la furgoneta sorprendió al magistrado. El padrino realista estableció un sistema terminal para procesar las solicitudes. El acuerdo condicional del legislativo permitió agotar todas las opciones diplomáticas. La secretaría trabajó incansablemente para evitar perjudicar los intereses de las partes involucradas en la negociación compleja.",
+    "questions": [
+      {
+        "type": "literal",
+        "question": "¿Qué permitió el acuerdo condicional?",
+        "options": [
+          "Agotar todas las opciones diplomáticas",
+          "Terminar las negociaciones",
+          "Cancelar el proyecto"
+        ],
+        "answer": "Agotar todas las opciones diplomáticas"
+      }
+    ]
+  },
+  "4.10": {
+    "text": "El apetito por el cambio crecía día a día en la región. El administrador castellano implementó nuevas políticas que beneficiaban a quienes residían en edificios de ladrillo tradicional. La comunidad valoraba estas iniciativas porque representaban un equilibrio entre modernidad y tradición. Los residentes participaban activamente en las decisiones administrativas, asegurando que sus voces fueran escuchadas. El proceso de transformación urbana se realizaba con respeto hacia el patrimonio arquitectónico existente.",
+    "questions": [
+      {
+        "type": "literal",
+        "question": "¿Qué implementó el administrador castellano?",
+        "options": [
+          "Nuevas políticas",
+          "Impuestos más altos",
+          "Restricciones de construcción"
+        ],
+        "answer": "Nuevas políticas"
+      }
+    ]
+  },
+  "5.1": {
+    "text": "Te dije a ti y a nos que debíamos ir a la iglesia. Eh, esto es solo una idea, pero el santo de la señora es mañana. Varios de nosotros queremos participar en la celebración. Sólo necesitamos confirmar los detalles con tu familia. Los medios de comunicación cubrirán el evento especial. Mas allá de las diferencias, ello representa una oportunidad para unir a la comunidad en torno a valores compartidos.",
+    "questions": [
+      {
+        "type": "literal",
+        "question": "¿Cuándo es el santo de la señora?",
+        "options": [
+          "Mañana",
+          "Hoy",
+          "La próxima semana"
+        ],
+        "answer": "Mañana"
+      }
+    ]
+  },
+  "5.2": {
+    "text": "El llanto resonaba en la habitación donde exhibían la escultura. El espacio extenso del castillo albergaba colecciones genéticas importantes. La sierra visible desde el cerro ofrecía vistas espectaculares. Relativamente pronto, el docente llegó desde el oriente con materiales auxiliares. El filósofo estudiaba cómo la humedad afectaba las formaciones rocosas. La seguida de eventos culturales atrajo a visitantes de toda la región interesada en el patrimonio histórico.",
+    "questions": [
+      {
+        "type": "literal",
+        "question": "¿Qué estudiaba el filósofo?",
+        "options": [
+          "Cómo la humedad afectaba las rocas",
+          "La historia del castillo",
+          "Las técnicas de escultura"
+        ],
+        "answer": "Cómo la humedad afectaba las rocas"
+      }
+    ]
+  },
+  "5.3": {
+    "text": "El orador elocuente mantuvo una trayectoria ascendente en su carrera. Su enfoque asertivo y equilibrado creaba un ambiente proporcionado para el debate. Aunque algunos argumentos parecían estériles, el resultado final fue beneficioso. La propuesta audaz requería una disciplina civilizada. El día nublado no impidió que la presentación fuera coherente y cohesiva. El diseño compacto y compatible del proyecto impresionó a los evaluadores especializados en el campo.",
+    "questions": [
+      {
+        "type": "literal",
+        "question": "¿Qué tipo de enfoque mantenía el orador?",
+        "options": [
+          "Asertivo y equilibrado",
+          "Agresivo y dominante",
+          "Pasivo y reservado"
+        ],
+        "answer": "Asertivo y equilibrado"
+      }
+    ]
+  },
+  "5.4": {
+    "text": "La tendencia descendente en los indicadores preocupaba al equipo. El enfoque pasivo no era efectivo en situaciones desequilibradas. Los resultados desproporcionados requerían análisis profundo. Algunos proyectos fructíferos generaban resultados perjudiciales inesperados. La decisión apresurada del grupo bárbaro ocurrió durante un día soleado. Las conclusiones incoherentes del reporte fragmentado mostraban un diseño expansivo pero incompatible con los objetivos. La solución diluida no resolvía el problema de fondo adecuadamente.",
+    "questions": [
+      {
+        "type": "literal",
+        "question": "¿Qué no era efectivo en situaciones desequilibradas?",
+        "options": [
+          "El enfoque pasivo",
+          "El enfoque activo",
+          "El enfoque neutral"
+        ],
+        "answer": "El enfoque pasivo"
+      }
+    ]
+  },
+  "5.5": {
+    "text": "Es importante aprehender conceptos complejos. Del conocimiento surge la sabiduría. Al analizar los datos, e incluso al debatir, quizá encontremos respuestas. El monje embarazado de conocimiento espiritual meditaba en el sótano. El parlamentario discutía sobre la munición almacenada en la bahía. El déficit presupuestario amenazaba con tornar la situación más difícil. La gana de resolver estos problemas motivaba a todos los involucrados en el proceso de toma de decisiones.",
+    "questions": [
+      {
+        "type": "literal",
+        "question": "¿Dónde meditaba el monje?",
+        "options": [
+          "En el sótano",
+          "En la bahía",
+          "En el parlamento"
+        ],
+        "answer": "En el sótano"
+      }
+    ]
+  },
+  "5.6": {
+    "text": "La envidia en la oficina de correos era evidente. El telegrama aterrador llegó junto con una botella de vodka. El abandono del proyecto causó sentimientos encontrados. El retorno a los valores tradicionales generó debate. La demostración asiática del nuevo receptor tecnológico impresionó a los expertos. Las sanciones impuestas al monumento histórico fueron controvertidas. Las autoridades debían regir con justicia y transparencia en todas sus decisiones administrativas y legales.",
+    "questions": [
+      {
+        "type": "literal",
+        "question": "¿Qué llegó junto con el telegrama aterrador?",
+        "options": [
+          "Una botella de vodka",
+          "Un paquete misterioso",
+          "Una carta antigua"
+        ],
+        "answer": "Una botella de vodka"
+      }
+    ]
+  },
+  "5.7": {
+    "text": "El espectro de posibilidades era amplio. Decidieron almacenar los datos en el sistema nuevo. El psicólogo trabajaba para debilitar los prejuicios sociales. El pendejo, según algunos, generalizaba demasiado. El malentendido causó rencor entre los grupos. Presenciaron el evento mientras calibraban los instrumentos. La melodía suave contrastaba con la burla constante. La contaminación ambiental era un tema recurrente en las discusiones sobre políticas públicas y responsabilidad corporativa.",
+    "questions": [
+      {
+        "type": "literal",
+        "question": "¿Qué trabajaba para debilitar el psicólogo?",
+        "options": [
+          "Los prejuicios sociales",
+          "La memoria colectiva",
+          "Los sistemas económicos"
+        ],
+        "answer": "Los prejuicios sociales"
+      }
+    ]
+  },
+  "5.8": {
+    "text": "El foco del párrafo principal estaba claro. El golfo representaba un punto estratégico para la importación de recursos. La conservación territorial era prioritaria. El documental cinematográfico se desarrolló terriblemente lento según algunos críticos. La información clasificada fue exagerada por los medios. El rigor metodológico y la armonía en el equipo permitieron revivir el proyecto gigantesco. La implementación eficiente de los procedimientos aseguró el éxito de la iniciativa compleja y ambiciosa.",
+    "questions": [
+      {
+        "type": "literal",
+        "question": "¿Qué permitió revivir el proyecto?",
+        "options": [
+          "El rigor metodológico y la armonía",
+          "La inversión extranjera",
+          "Las nuevas tecnologías"
+        ],
+        "answer": "El rigor metodológico y la armonía"
+      }
+    ]
+  },
+  "5.9": {
+    "text": "El invento revolucionario cambió la agricultura cuando comenzaron a arar los campos de manera más eficiente. El cobre extraído de la mina representaba un tramo importante del presupuesto nacional. Aparente para todos, el referente histórico era fundamental. El aterrizaje del avión fue suave y preciso. La leyenda del héroe inmortal inspiraba a las generaciones jóvenes. La injusticia social tenía una magnitud preocupante. El recinto deportivo albergaba exhibiciones de zanahoria gigante, demostrando legalmente el agradecimiento de la comunidad.",
+    "questions": [
+      {
+        "type": "literal",
+        "question": "¿Cómo fue el aterrizaje del avión?",
+        "options": [
+          "Suave y preciso",
+          "Brusco y peligroso",
+          "Lento y complicado"
+        ],
+        "answer": "Suave y preciso"
+      }
+    ]
+  },
+  "5.10": {
+    "text": "La inauguración del nuevo centro cultural fue un evento memorable. Los organizadores planificaron infiltrar ideas innovadoras en el programa educativo. La tormenta amenazaba con arrasar la región costera. Los accionistas expresaron preocupación por el desempeño financiero reciente. Las autoridades implementaron medidas preventivas para proteger a la población vulnerable. El proyecto de expansión urbana requería coordinación entre múltiples sectores gubernamentales y privados. La comunidad esperaba con optimismo los resultados de estas iniciativas transformadoras.",
+    "questions": [
+      {
+        "type": "literal",
+        "question": "¿Qué expresaron los accionistas?",
+        "options": [
+          "Preocupación por el desempeño financiero",
+          "Satisfacción con los resultados",
+          "Desinterés en el proyecto"
+        ],
+        "answer": "Preocupación por el desempeño financiero"
+      }
+    ]
+  },
+  "6.1": {
+    "text": "El narrador del documental describió el vicio del contrabando en la frontera. La fachada respetable de algunos licenciados ocultaba actividades ilícitas. Las hormonas del estrés afectaban a quienes debatían este tema picante. Un vagón de tren transportaba mercancía que rozaba la ilegalidad. Los investigadores intentaban suprimir estas operaciones, pero el fluido movimiento de bienes drogados complicaba las pesquisas. La escopeta de un agente frustrado apelaba a métodos más directos. Era necesario disolver estas redes para enriquecer la seguridad nacional y eliminar el aspecto erótico del peligro que algunos encontraban en estas actividades criminales.",
+    "questions": [
+      {
+        "type": "literal",
+        "question": "¿Qué ocultaba la fachada respetable de algunos licenciados?",
+        "options": [
+          "Actividades ilícitas",
+          "Negocios legales",
+          "Proyectos sociales"
+        ],
+        "answer": "Actividades ilícitas"
+      }
+    ]
+  },
+  "6.2": {
+    "text": "La embajada organizó una recepción diplomática donde se discutieron asuntos delicados. El embajador, con su característica sutileza, abordó el tema de las reformas legislativas. Los invitados disfrutaron de aperitivos mientras conversaban sobre política internacional. Un periodista audaz planteó preguntas incómodas sobre tratados comerciales. La atmósfera era tensa pero civilizada. Los representantes de varios países intercambiaban opiniones sobre cooperación económica. La velada concluyó con un brindis por la paz y el entendimiento mutuo entre las naciones participantes en esta importante reunión multilateral.",
+    "questions": [
+      {
+        "type": "literal",
+        "question": "¿Qué se discutió en la recepción diplomática?",
+        "options": [
+          "Asuntos delicados y reformas legislativas",
+          "Deportes internacionales",
+          "Arte contemporáneo"
+        ],
+        "answer": "Asuntos delicados y reformas legislativas"
+      }
+    ]
+  },
+  "6.3": {
+    "text": "El arqueólogo descubrió un manuscrito antiguo en las ruinas del templo. La excavación reveló artefactos que databan de civilizaciones perdidas. Cada fragmento de cerámica contaba una historia fascinante. El equipo trabajaba meticulosamente bajo el sol ardiente. Las inscripciones jeroglíficas requerían traducción especializada. Un hallazgo particularmente importante fue una tablilla con símbolos astronómicos. Los investigadores fotografiaron cada detalle para análisis posterior. Este descubrimiento arqueológico cambiaría la comprensión de la historia antigua de la región y aportaría nuevos conocimientos sobre las prácticas culturales y religiosas de aquella época remota.",
+    "questions": [
+      {
+        "type": "literal",
+        "question": "¿Qué descubrió el arqueólogo en las ruinas del templo?",
+        "options": [
+          "Un manuscrito antiguo",
+          "Una estatua moderna",
+          "Un tesoro de oro"
+        ],
+        "answer": "Un manuscrito antiguo"
+      }
+    ]
+  },
+  "6.4": {
+    "text": "La compañía farmacéutica lanzó un nuevo medicamento revolucionario. Los ensayos clínicos demostraron eficacia notable en el tratamiento de enfermedades crónicas. Los pacientes experimentaron mejoras significativas en su calidad de vida. El equipo médico supervisaba cuidadosamente los efectos secundarios. La inversión en investigación había valido la pena después de años de desarrollo. Los accionistas celebraron el éxito comercial del producto. Sin embargo, surgieron debates éticos sobre la accesibilidad y el precio. Las autoridades sanitarias evaluaban la aprobación para distribución masiva en el mercado nacional e internacional.",
+    "questions": [
+      {
+        "type": "literal",
+        "question": "¿Qué lanzó la compañía farmacéutica?",
+        "options": [
+          "Un nuevo medicamento revolucionario",
+          "Una campaña publicitaria",
+          "Un programa de voluntariado"
+        ],
+        "answer": "Un nuevo medicamento revolucionario"
+      }
+    ]
+  },
+  "6.5": {
+    "text": "El chef preparaba un banquete para la celebración anual del restaurante. Los ingredientes exóticos provenían de mercados internacionales. Cada plato representaba una fusión de tradiciones culinarias. Los comensales esperaban ansiosamente la presentación del menú. El aroma de especias llenaba el salón elegantemente decorado. El sommelier recomendaba vinos que complementaban perfectamente cada curso. La experiencia gastronómica era verdaderamente excepcional. Los críticos culinarios tomaban notas detalladas para sus reseñas. Este evento consolidaría la reputación del establecimiento como destino gastronómico de primera categoría en la ciudad cosmopolita.",
+    "questions": [
+      {
+        "type": "literal",
+        "question": "¿Para qué preparaba el chef el banquete?",
+        "options": [
+          "Para la celebración anual del restaurante",
+          "Para una boda privada",
+          "Para un concurso culinario"
+        ],
+        "answer": "Para la celebración anual del restaurante"
+      }
+    ]
+  },
+  "6.6": {
+    "text": "La orquesta sinfónica ensayaba para el concierto de gala. El director exigía perfección en cada movimiento musical. Los violinistas afinaban sus instrumentos con precisión meticulosa. El pianista practicaba pasajes complicados una y otra vez. La acústica del auditorio era excepcional para este tipo de presentaciones. Los músicos mostraban dedicación admirable a su arte. El programa incluía obras de compositores clásicos y contemporáneos. Los boletos se habían agotado semanas antes del evento. Esta sería una noche memorable para los amantes de la música clásica que asistirían a presenciar la excelencia artística.",
+    "questions": [
+      {
+        "type": "literal",
+        "question": "¿Para qué ensayaba la orquesta sinfónica?",
+        "options": [
+          "Para el concierto de gala",
+          "Para una grabación de estudio",
+          "Para un festival al aire libre"
+        ],
+        "answer": "Para el concierto de gala"
+      }
+    ]
+  },
+  "6.7": {
+    "text": "El equipo de científicos monitoreaba el comportamiento de especies en peligro de extinción. Utilizaban tecnología avanzada para rastrear movimientos migratorios. Las cámaras ocultas capturaban imágenes extraordinarias de la vida silvestre. Los datos recopilados eran cruciales para estrategias de conservación. El hábitat natural enfrentaba amenazas constantes por la deforestación. Los biólogos trabajaban incansablemente para proteger estos ecosistemas vulnerables. Las organizaciones ambientalistas apoyaban financieramente el proyecto. Los resultados preliminares mostraban patrones preocupantes que requerían acción inmediata para prevenir la desaparición de estas especies únicas.",
+    "questions": [
+      {
+        "type": "literal",
+        "question": "¿Qué monitoreaba el equipo de científicos?",
+        "options": [
+          "El comportamiento de especies en peligro",
+          "El cambio climático global",
+          "Las corrientes oceánicas"
+        ],
+        "answer": "El comportamiento de especies en peligro"
+      }
+    ]
+  },
+  "6.8": {
+    "text": "La startup tecnológica desarrollaba una aplicación innovadora para educación digital. Los programadores trabajaban en algoritmos de aprendizaje personalizado. La interfaz del usuario era intuitiva y atractiva visualmente. Las pruebas beta revelaron alto nivel de satisfacción entre estudiantes. Los inversionistas mostraban gran interés en el potencial comercial. El mercado educativo digital crecía exponencialmente cada año. La plataforma prometía revolucionar métodos tradicionales de enseñanza. Los fundadores presentaron su propuesta en una conferencia internacional. El éxito inicial auguraba un futuro prometedor para esta empresa emergente en el sector tecnológico educativo.",
+    "questions": [
+      {
+        "type": "literal",
+        "question": "¿Qué desarrollaba la startup tecnológica?",
+        "options": [
+          "Una aplicación para educación digital",
+          "Un videojuego comercial",
+          "Una red social nueva"
+        ],
+        "answer": "Una aplicación para educación digital"
+      }
+    ]
+  },
+  "6.9": {
+    "text": "El documentalista filmaba la vida cotidiana en una comunidad remota. Las tradiciones ancestrales se preservaban cuidadosamente entre generaciones. Los ancianos compartían sabiduría acumulada durante décadas. Las ceremonias rituales mantenían viva la identidad cultural. La modernización amenazaba estas costumbres antiguas lentamente. Los jóvenes enfrentaban el dilema entre tradición y progreso. El director capturaba momentos auténticos con sensibilidad artística. Este trabajo cinematográfico serviría como registro histórico invaluable. La película documentaría aspectos únicos de esta cultura antes de que desaparecieran por completo ante el avance inevitable de la globalización contemporánea.",
+    "questions": [
+      {
+        "type": "literal",
+        "question": "¿Qué filmaba el documentalista?",
+        "options": [
+          "La vida cotidiana en una comunidad remota",
+          "Una película de ficción histórica",
+          "Un programa de entretenimiento"
+        ],
+        "answer": "La vida cotidiana en una comunidad remota"
+      }
+    ]
+  },
+  "6.10": {
+    "text": "El peregrino genuino caminaba por senderos antiguos buscando iluminación espiritual. Sus creencias lo guiaban a través de paisajes desafiantes. Otros viajeros compartían historias de transformación personal. El verdugo interior de cada persona era el verdadero obstáculo. La costa cercana ofrecía vistas que inspiraban reflexión profunda. Algunos patriotas consideraban este camino como símbolo nacional. Las enseñanzas sobresalían por su profundidad filosófica. Los escépticos intentaban desmentir el valor de estas prácticas. Sin embargo, quienes completaban el peregrinaje experimentaban cambios profundos. La jornada se esfumaba rápidamente pero dejaba huellas permanentes en el espíritu.",
+    "questions": [
+      {
+        "type": "literal",
+        "question": "¿Qué buscaba el peregrino en su camino?",
+        "options": [
+          "Iluminación espiritual",
+          "Riquezas materiales",
+          "Fama y reconocimiento"
+        ],
+        "answer": "Iluminación espiritual"
+      }
+    ]
+  },
+  "7.1": {
+    "text": "El arquitecto presentó un diseño agregado que transformaría el paisaje urbano. Las líneas torcidas del edificio desafiaban la geometría convencional. La senda peatonal serpenteaba entre espacios verdes innovadores. Los críticos consideraban el enfoque matrimonial entre arte y funcionalidad como nulo en valor práctico. Sin embargo, el concepto revolucionario integraba elementos sostenibles avanzados. Los materiales reciclados formaban parte integral del proyecto. La comunidad debatía apasionadamente sobre la propuesta urbanística. Algunos residentes expresaban preocupación por el costo financiero. Otros celebraban la visión futurista del arquitecto. La decisión final dependería de estudios de impacto ambiental y aprobaciones municipales complejas.",
+    "questions": [
+      {
+        "type": "literal",
+        "question": "¿Qué presentó el arquitecto?",
+        "options": [
+          "Un diseño que transformaría el paisaje urbano",
+          "Un libro sobre historia arquitectónica",
+          "Una maqueta de edificios antiguos"
+        ],
+        "answer": "Un diseño que transformaría el paisaje urbano"
+      }
+    ]
+  },
+  "7.2": {
+    "text": "La expedición científica exploraba el ecosistema del arrecife de coral. Los investigadores buceaban en aguas cristalinas documentando biodiversidad marina. Las especies descubiertas mostraban adaptaciones evolutivas fascinantes. El equipo utilizaba equipos especializados para medir temperatura y salinidad. Los corales blanqueados evidenciaban efectos del cambio climático. Los biólogos marinos expresaban preocupación urgente sobre la degradación acelerada. Las muestras recolectadas serían analizadas en laboratorios avanzados. Los datos contribuirían a modelos predictivos sobre salud oceánica. Esta investigación era crucial para desarrollar estrategias de conservación efectivas. El futuro de estos ecosistemas dependía de acciones coordinadas internacionalmente.",
+    "questions": [
+      {
+        "type": "literal",
+        "question": "¿Qué exploraba la expedición científica?",
+        "options": [
+          "El ecosistema del arrecife de coral",
+          "Cuevas subterráneas profundas",
+          "Montañas nevadas remotas"
+        ],
+        "answer": "El ecosistema del arrecife de coral"
+      }
+    ]
+  },
+  "7.3": {
+    "text": "El novelista trabajaba en su obra maestra durante años de dedicación intensa. Los personajes cobraban vida en páginas meticulosamente escritas. La trama entrelazaba múltiples líneas narrativas con maestría literaria. Los críticos anticipaban ansiosamente la publicación del manuscrito. El escritor revisaba cada párrafo buscando perfección estilística. Las editoriales competían por derechos de publicación exclusivos. El proceso creativo requería aislamiento y concentración absoluta. Los lectores tempranos describían la narrativa como cautivadora e innovadora. Este libro podría definir una generación literaria completa. La fecha de lanzamiento se acercaba mientras crecía la expectativa en círculos intelectuales.",
+    "questions": [
+      {
+        "type": "literal",
+        "question": "¿En qué trabajaba el novelista?",
+        "options": [
+          "En su obra maestra",
+          "En una serie de artículos periodísticos",
+          "En una biografía histórica"
+        ],
+        "answer": "En su obra maestra"
+      }
+    ]
+  },
+  "7.4": {
+    "text": "La organización no gubernamental implementaba programas de desarrollo comunitario. Los voluntarios capacitaban residentes en habilidades empresariales prácticas. Las microfinanzas empoderaban económicamente a familias vulnerables. Los proyectos sostenibles mejoraban calidad de vida gradualmente. La educación representaba el pilar fundamental de la iniciativa. Los talleres incluían alfabetización digital y gestión financiera básica. Las mujeres participaban activamente liderando cambios sociales. Los resultados preliminares mostraban impacto positivo mensurable. La financiación internacional sostenía estas operaciones cruciales. El modelo replicable prometía transformar comunidades similares. El objetivo final era crear prosperidad autosuficiente duradera.",
+    "questions": [
+      {
+        "type": "literal",
+        "question": "¿Qué implementaba la organización no gubernamental?",
+        "options": [
+          "Programas de desarrollo comunitario",
+          "Campañas políticas electorales",
+          "Festivales culturales anuales"
+        ],
+        "answer": "Programas de desarrollo comunitario"
+      }
+    ]
+  },
+  "7.5": {
+    "text": "El astrofísico investigaba fenómenos cósmicos inexplicables observados recientemente. Los telescopios espaciales capturaban imágenes sin precedentes. Las teorías establecidas enfrentaban desafíos significativos. Los cálculos complejos requerían supercomputadoras avanzadas. Las ondas gravitacionales revelaban secretos del universo primordial. Los colegas colaboraban internacionalmente compartiendo datos cruciales. Las conferencias científicas debatían interpretaciones de los hallazgos. Las implicaciones filosóficas trascendían la física pura. El conocimiento humano expandía sus horizontes constantemente. Los jóvenes estudiantes se inspiraban en estos descubrimientos. La ciencia avanzaba hacia comprensión más profunda de nuestra existencia cósmica.",
+    "questions": [
+      {
+        "type": "literal",
+        "question": "¿Qué investigaba el astrofísico?",
+        "options": [
+          "Fenómenos cósmicos inexplicables",
+          "La historia de la astronomía antigua",
+          "Técnicas de observación terrestre"
+        ],
+        "answer": "Fenómenos cósmicos inexplicables"
+      }
+    ]
+  },
+  "7.6": {
+    "text": "La compañía de teatro experimental presentaba una producción vanguardista. Los actores desafiaban convenciones dramáticas tradicionales. El escenario minimalista enfatizaba la actuación sobre el espectáculo visual. El director buscaba provocar reflexión profunda en la audiencia. Los diálogos exploraban temas existenciales contemporáneos. La crítica especializada dividía opiniones apasionadamente. Algunos consideraban la obra genial e innovadora. Otros la encontraban pretenciosa e incomprensible. El público joven respondía con entusiasmo notable. Las funciones se agotaban sistemáticamente. Esta propuesta teatral redefinía límites del arte escénico contemporáneo desafiando expectativas convencionales.",
+    "questions": [
+      {
+        "type": "literal",
+        "question": "¿Qué presentaba la compañía de teatro experimental?",
+        "options": [
+          "Una producción vanguardista",
+          "Una comedia clásica ligera",
+          "Un musical familiar tradicional"
+        ],
+        "answer": "Una producción vanguardista"
+      }
+    ]
+  },
+  "7.7": {
+    "text": "El programa de intercambio cultural conectaba estudiantes de continentes diferentes. Los participantes vivían con familias anfitrionas experimentando costumbres locales. El aprendizaje transcendía aulas académicas tradicionales. Las amistades formadas duraban toda la vida. Los choques culturales iniciales transformaban perspectivas personales. El idioma representaba el primer obstáculo significativo. La adaptación requería flexibilidad y mente abierta. Las experiencias compartidas enriquecían mutuamente a todos involucrados. Los coordinadores facilitaban la integración gradual. Los testimonios destacaban crecimiento personal extraordinario. Esta inmersión cultural preparaba ciudadanos globales conscientes.",
+    "questions": [
+      {
+        "type": "literal",
+        "question": "¿Qué conectaba el programa de intercambio cultural?",
+        "options": [
+          "Estudiantes de continentes diferentes",
+          "Profesores universitarios jubilados",
+          "Empresarios internacionales exitosos"
+        ],
+        "answer": "Estudiantes de continentes diferentes"
+      }
+    ]
+  },
+  "7.8": {
+    "text": "El centro de investigación médica desarrollaba tratamientos innovadores para enfermedades raras. Los científicos trabajaban incansablemente en laboratorios especializados. Las terapias génicas representaban esperanza para pacientes sin opciones. Los ensayos clínicos avanzaban con resultados prometedores. La financiación provenía de donaciones filantrópicas generosas. Las familias afectadas participaban activamente en grupos de apoyo. Los médicos coordinaban protocolos de tratamiento personalizados. La colaboración internacional aceleraba el progreso científico. Los descubrimientos publicados beneficiaban a la comunidad médica global. Este trabajo salvaba vidas y transformaba futuros.",
+    "questions": [
+      {
+        "type": "literal",
+        "question": "¿Qué desarrollaba el centro de investigación médica?",
+        "options": [
+          "Tratamientos innovadores para enfermedades raras",
+          "Equipos deportivos especializados",
+          "Programas de entretenimiento terapéutico"
+        ],
+        "answer": "Tratamientos innovadores para enfermedades raras"
+      }
+    ]
+  },
+  "7.9": {
+    "text": "La renovación urbana transformaba barrios deteriorados en comunidades vibrantes. Los planificadores integraban espacios verdes accesibles. Los edificios históricos se preservaban mientras se modernizaban interiores. Los residentes participaban en decisiones de diseño comunitario. Las pequeñas empresas recibían incentivos para establecerse. El transporte público mejorado conectaba áreas marginadas. Los artistas callejeros embellecían muros con murales coloridos. Los parques infantiles seguros ofrecían recreación familiar. La gentrificación preocupaba a habitantes originales. El equilibrio entre progreso y preservación requería diálogo constante.",
+    "questions": [
+      {
+        "type": "literal",
+        "question": "¿Qué transformaba la renovación urbana?",
+        "options": [
+          "Barrios deteriorados en comunidades vibrantes",
+          "Zonas industriales en parques naturales",
+          "Centros comerciales en bibliotecas públicas"
+        ],
+        "answer": "Barrios deteriorados en comunidades vibrantes"
+      }
+    ]
+  },
+  "7.10": {
+    "text": "Los debates arquitectónicos sobre restauración accidental de monumentos dividían a expertos. Algunos arquitectos defendían la preservación arquitectónica estricta. Otros apoyaban interpretaciones contemporáneas que roían la autenticidad. Un opositor prominente argumentaba que la semejanza exacta era imposible. Las cerillas encendidas de opiniones contrarias generaban controversia placentera. Los ositos de peluche en las tiendas del museo simbolizaban comercialización excesiva. La restauración debía equilibrar historia y accesibilidad moderna. Los turistas valoraban experiencias auténticas sobre reconstrucciones artificiales. El patrimonio cultural requería cuidado meticuloso y respeto profundo por generaciones futuras.",
+    "questions": [
+      {
+        "type": "literal",
+        "question": "¿Qué dividía a los expertos?",
+        "options": [
+          "Los debates sobre restauración de monumentos",
+          "Las técnicas de construcción modernas",
+          "Los precios de entrada a museos"
+        ],
+        "answer": "Los debates sobre restauración de monumentos"
+      }
+    ]
+  },
+  "8.1": {
+    "text": "El ecosistema dinámico del laboratorio fundido de ideas inéditas generaba controversia académica. Los investigadores preparaban panqueques experimentales mientras debatían teorías revolucionarias. Las metodologías establecidas se cuestionaban constantemente buscando innovación disruptiva. Los experimentos fallidos proporcionaban lecciones valiosas. El equipo interdisciplinario incluía expertos de múltiples campos científicos. Las hipótesis audaces desafiaban paradigmas tradicionales. Los resultados preliminares sugerían descubrimientos potencialmente transformadores. La presión por publicar competía con la necesidad de verificación rigurosa. Los colegas escépticos demandaban evidencia reproducible. Los debates intelectuales duraban hasta altas horas de la madrugada. Esta atmósfera de curiosidad intensa impulsaba el progreso científico hacia territorios inexplorados del conocimiento humano.",
+    "questions": [
+      {
+        "type": "literal",
+        "question": "¿Qué generaba el ecosistema dinámico del laboratorio?",
+        "options": [
+          "Controversia académica",
+          "Unanimidad científica total",
+          "Resultados predecibles siempre"
+        ],
+        "answer": "Controversia académica"
+      }
+    ]
+  },
+  "8.2": {
+    "text": "La orquesta interpretaba la partitura compleja con precisión extraordinaria. El director había simplificado ciertos pasajes sin sacrificar integridad artística. El currículum del maestro incluía décadas de experiencia internacional. Los músicos estudiaron exhaustivamente cada movimiento de la sinfonía. La acústica del auditorio realzaba cada matiz sonoro delicadamente. El público permanecía hipnotizado por la interpretación magistral. Los críticos musicales tomaban notas frenéticamente durante la ejecución. Las ovaciones interrumpían brevemente entre movimientos contra el protocolo tradicional. Esta actuación quedaría grabada en la memoria colectiva. El arte musical trascendía barreras lingüísticas y culturales universalmente. La belleza sonora conectaba corazones humanos profundamente.",
+    "questions": [
+      {
+        "type": "literal",
+        "question": "¿Cómo interpretaba la orquesta la partitura?",
+        "options": [
+          "Con precisión extraordinaria",
+          "De manera improvisada libremente",
+          "Sin seguir el tempo indicado"
+        ],
+        "answer": "Con precisión extraordinaria"
+      }
+    ]
+  },
+  "8.3": {
+    "text": "El movimiento social emergente luchaba por derechos ambientales fundamentales. Los activistas organizaban manifestaciones pacíficas masivas. Las corporaciones multinacionales resistían cambios regulatorios propuestos. Los científicos proporcionaban evidencia irrefutable sobre degradación ecológica. Los políticos navegaban presiones de múltiples grupos de interés. Los medios amplificaban voces marginadas históricamente. Las generaciones jóvenes lideraban el cambio paradigmático. Los testimonios personales humanizaban estadísticas abstractas. Las estrategias de desobediencia civil generaban debate ético intenso. El futuro planetario dependía de decisiones actuales. La conciencia colectiva despertaba gradualmente ante la crisis existencial que enfrentaba la humanidad entera.",
+    "questions": [
+      {
+        "type": "literal",
+        "question": "¿Por qué luchaba el movimiento social emergente?",
+        "options": [
+          "Por derechos ambientales fundamentales",
+          "Por reducción de impuestos empresariales",
+          "Por expansión industrial ilimitada"
+        ],
+        "answer": "Por derechos ambientales fundamentales"
+      }
+    ]
+  },
+  "8.4": {
+    "text": "La revolución tecnológica transformaba industrias tradicionales completamente. Las inteligencias artificiales automatizaban procesos previamente manuales. Los trabajadores enfrentaban necesidad de reconversión profesional urgente. Las universidades adaptaban currículos anticipando demandas futuras. Los gobiernos implementaban políticas de protección social transitoria. Los emprendedores identificaban oportunidades en mercados emergentes. La brecha digital amenazaba exacerbar desigualdades existentes. Los debates éticos sobre privacidad y automatización intensificaban. La sociedad navegaba transiciones sin precedentes históricos. El equilibrio entre progreso e inclusión requería planificación estratégica. El futuro laboral dependía de adaptabilidad y aprendizaje continuo permanente.",
+    "questions": [
+      {
+        "type": "literal",
+        "question": "¿Qué transformaba la revolución tecnológica?",
+        "options": [
+          "Industrias tradicionales completamente",
+          "Solo el sector de entretenimiento",
+          "Únicamente las telecomunicaciones rurales"
+        ],
+        "answer": "Industrias tradicionales completamente"
+      }
+    ]
+  },
+  "8.5": {
+    "text": "El festival internacional de cine exhibía obras cinematográficas provocativas. Los directores independientes presentaban narrativas experimentales audaces. Las películas documentales exponían realidades sociales incómodas. Los actores emergentes demostraban talento excepcional prometedor. Los críticos debatían méritos artísticos apasionadamente. Las proyecciones nocturnas atraían audiencias diversas entusiastas. Los paneles de discusión exploraban temas controversiales profundamente. Las salas repletas testimoniaban el apetito cultural insaciable. Los premios reconocían excelencia en múltiples categorías técnicas. Este evento posicionaba la ciudad como centro cultural relevante. El séptimo arte continuaba evolucionando narrativamente expandiendo posibilidades expresivas infinitamente.",
+    "questions": [
+      {
+        "type": "literal",
+        "question": "¿Qué exhibía el festival internacional de cine?",
+        "options": [
+          "Obras cinematográficas provocativas",
+          "Solo películas comerciales convencionales",
+          "Únicamente documentales históricos antiguos"
+        ],
+        "answer": "Obras cinematográficas provocativas"
+      }
+    ]
+  },
+  "8.6": {
+    "text": "La crisis humanitaria requería respuesta coordinada internacional urgente. Las organizaciones desplegaban equipos de emergencia rápidamente. Los suministros médicos esenciales escaseaban peligrosamente. Los refugiados buscaban seguridad cruzando fronteras arriesgadamente. Los voluntarios trabajaban incansablemente bajo condiciones extremas. Las donaciones mundiales respondían generosamente ante el sufrimiento. Los medios documentaban la tragedia sensibilizando audiencias globales. Los gobiernos coordinaban esfuerzos diplomáticos complejos. Las familias separadas anhelaban reunificación desesperadamente. La solidaridad humana trascendía diferencias políticas temporalmente. La reconstrucción exigiría compromiso sostenido durante años venideros inevitablemente.",
+    "questions": [
+      {
+        "type": "literal",
+        "question": "¿Qué requería la crisis humanitaria?",
+        "options": [
+          "Respuesta coordinada internacional urgente",
+          "Soluciones individuales aisladas únicamente",
+          "Ignorar la situación completamente"
+        ],
+        "answer": "Respuesta coordinada internacional urgente"
+      }
+    ]
+  },
+  "8.7": {
+    "text": "El simposio académico reunía intelectuales de disciplinas diversas. Las presentaciones exploraban intersecciones entre ciencia y humanidades. Los debates filosóficos cuestionaban fundamentos epistemológicos tradicionales. Las metodologías interdisciplinarias generaban conocimiento innovador. Los participantes compartían investigaciones preliminares provocativas. Las preguntas incisivas desafiaban suposiciones implícitas. Los panelistas respondían articulando posiciones matizadas. El intercambio intelectual enriquecía perspectivas individuales. Las publicaciones resultantes influirían en campos académicos. El conocimiento avanzaba mediante colaboración constructiva. La academia cumplía su misión de expandir horizontes humanos.",
+    "questions": [
+      {
+        "type": "literal",
+        "question": "¿Qué reunía el simposio académico?",
+        "options": [
+          "Intelectuales de disciplinas diversas",
+          "Solo científicos de física cuántica",
+          "Únicamente estudiantes de primer año"
+        ],
+        "answer": "Intelectuales de disciplinas diversas"
+      }
+    ]
+  },
+  "8.8": {
+    "text": "La expedición arqueológica descubría civilización perdida enigmática. Los artefactos desenterrados revelaban sofisticación tecnológica inesperada. Las estructuras arquitectónicas desafiaban comprensión convencional. Los jeroglíficos requerían desciframiento lingüístico complejo. Las dataciones por carbono contradecían cronologías establecidas. Los expertos reconsideraban narrativas históricas fundamentales. Las excavaciones continuaban revelando secretos milenarios. Los hallazgos cuestionaban teorías antropológicas dominantes. La comunidad científica debatía implicaciones apasionadamente. El pasado humano demostraba complejidad sorprendente. La historia requería reescritura constante mediante descubrimientos arqueológicos.",
+    "questions": [
+      {
+        "type": "literal",
+        "question": "¿Qué descubría la expedición arqueológica?",
+        "options": [
+          "Civilización perdida enigmática",
+          "Un centro comercial moderno abandonado",
+          "Ruinas del siglo pasado solamente"
+        ],
+        "answer": "Civilización perdida enigmática"
+      }
+    ]
+  },
+  "8.9": {
+    "text": "El aguacate se había convertido en símbolo de controversia económica global. La anulación de tratados comerciales amenazaba la industria agrícola. Los productores locales buscaban derrocar monopolios establecidos. La abstención de consumidores conscientes protestaba prácticas insostenibles. El alfabeto de certificaciones orgánicas confundía compradores. Los restaurantes promovían menús sostenibles éticamente. Los científicos agrícolas desarrollaban variedades resistentes. Las cadenas de suministro enfrentaban disrupciones climáticas. Los debates sobre comercio justo intensificaban. El futuro alimentario requería equilibrio ecológico. La agricultura sostenible necesitaba inversión e innovación urgentes.",
+    "questions": [
+      {
+        "type": "literal",
+        "question": "¿En qué se había convertido el aguacate?",
+        "options": [
+          "En símbolo de controversia económica global",
+          "En cultivo completamente abandonado",
+          "En producto exclusivamente ornamental"
+        ],
+        "answer": "En símbolo de controversia económica global"
+      }
+    ]
+  },
+  "8.10": {
+    "text": "Los músicos trabajaban en simplificar partituras complejas sin perder esencia artística. El currículum actualizado del conservatorio incorporaba tecnologías digitales. Los estudiantes aprendían a interpretar obras mediante análisis profundo. Las presentaciones públicas requerían preparación meticulosa durante meses. Los profesores enfatizaban importancia de comprensión teórica sólida. Las audiciones competitivas seleccionaban talentos excepcionales prometedores. El compromiso artístico trascendía meras habilidades técnicas. La música clásica evolucionaba manteniendo tradiciones venerables. Los jóvenes músicos enfrentaban mercados profesionales desafiantes. La pasión artística motivaba perseverancia ante obstáculos inevitables continuamente.",
+    "questions": [
+      {
+        "type": "literal",
+        "question": "¿Qué incorporaba el currículum actualizado del conservatorio?",
+        "options": [
+          "Tecnologías digitales",
+          "Solo métodos del siglo XVIII",
+          "Únicamente teoría abstracta pura"
+        ],
+        "answer": "Tecnologías digitales"
+      }
+    ]
+  },
+  "9.1": {
+    "text": "El estudio de astronomía examinaba la afluencia de datos cósmicos masivos. Los astrónomos caminaban por la alameda universitaria discutiendo teorías gravitacionales. El aseo meticuloso de los telescopios garantizaba observaciones precisas. Los adjetivos utilizados en publicaciones científicas requerían precisión terminológica. Las imágenes capturadas revelaban galaxias distantes inexploradas previamente. Los modelos matemáticos intentaban explicar fenómenos enigmáticos observados. Las conferencias internacionales reunían mentes brillantes colaborando. Los descubrimientos desafiaban comprensión humana de la física fundamental. Las supernovas estudiadas proporcionaban claves sobre evolución estelar. Los planetas exoplanetarios sugerían posibilidad de vida extraterrestre. La cosmología moderna expandía horizontes imaginativos constantemente. El universo revelaba complejidades asombrosas que desafiaban toda comprensión previa sistemáticamente.",
+    "questions": [
+      {
+        "type": "literal",
+        "question": "¿Qué examinaba el estudio de astronomía?",
+        "options": [
+          "La afluencia de datos cósmicos masivos",
+          "Solo meteorología terrestre básica",
+          "Únicamente astrología predictiva tradicional"
+        ],
+        "answer": "La afluencia de datos cósmicos masivos"
+      }
+    ]
+  },
+  "9.2": {
+    "text": "El programa de conservación marina protegía especies oceánicas vulnerables amenazadas. Los biólogos monitoreaban poblaciones de cetáceos mediante tecnologías satelitales. Las redes de pesca sostenibles minimizaban capturas incidentales. Los santuarios marinos establecían zonas protegidas estrictamente. Las campañas educativas sensibilizaban comunidades costeras locales. Los arrecifes coralinos recibían tratamientos de restauración innovadores. Las corrientes oceánicas influenciaban patrones migratorios complejos. Los contaminantes plásticos amenazaban ecosistemas marinos globalmente. Las organizaciones colaboraban internacionalmente compartiendo mejores prácticas. Los océanos saludables garantizaban supervivencia planetaria. La gestión sostenible requería compromiso político duradero significativo.",
+    "questions": [
+      {
+        "type": "literal",
+        "question": "¿Qué protegía el programa de conservación marina?",
+        "options": [
+          "Especies oceánicas vulnerables amenazadas",
+          "Solo industrias pesqueras comerciales",
+          "Únicamente instalaciones portuarias modernas"
+        ],
+        "answer": "Especies oceánicas vulnerables amenazadas"
+      }
+    ]
+  },
+  "9.3": {
+    "text": "La cumbre diplomática abordaba tensiones geopolíticas escalando peligrosamente. Los negociadores trabajaban incansablemente buscando compromisos viables. Las posturas iniciales parecían irreconciliables completamente. Los mediadores facilitaban diálogos constructivos pacientemente. Las concesiones mutuas emergían gradualmente mediante confianza. Los acuerdos preliminares establecían bases para paz duradera. Los observadores internacionales monitoreaban implementación rigurosamente. Las poblaciones afectadas anhelaban estabilidad desesperadamente. Los tratados firmados requerían ratificación legislativa. La diplomacia prevenía conflictos armados devastadores. El diálogo superaba confrontación mediante voluntad política genuina. La paz mundial dependía de liderazgo comprometido constantemente.",
+    "questions": [
+      {
+        "type": "literal",
+        "question": "¿Qué abordaba la cumbre diplomática?",
+        "options": [
+          "Tensiones geopolíticas escalando peligrosamente",
+          "Solo cuestiones de turismo internacional",
+          "Únicamente protocolos ceremoniales formales"
+        ],
+        "answer": "Tensiones geopolíticas escalando peligrosamente"
+      }
+    ]
+  },
+  "9.4": {
+    "text": "El instituto de investigación genética desarrollaba terapias revolucionarias prometedoras. Los científicos manipulaban secuencias de ADN con precisión molecular. Las enfermedades hereditarias enfrentaban posibles curas definitivas. Los comités éticos supervisaban investigaciones controversiales cuidadosamente. Las implicaciones filosóficas trascendían ciencia pura. Los tratamientos personalizados transformarían medicina completamente. Las regulaciones gubernamentales equilibraban innovación y seguridad. Los pacientes desesperados esperaban avances ansiosamente. Los ensayos clínicos avanzaban mediante protocolos rigurosos. La biotecnología prometía extender longevidad humana. El futuro médico parecía ciencia ficción materializada. La ética guiaba progreso científico responsablemente.",
+    "questions": [
+      {
+        "type": "literal",
+        "question": "¿Qué desarrollaba el instituto de investigación genética?",
+        "options": [
+          "Terapias revolucionarias prometedoras",
+          "Solo suplementos vitamínicos básicos",
+          "Únicamente tratamientos cosméticos superficiales"
+        ],
+        "answer": "Terapias revolucionarias prometedoras"
+      }
+    ]
+  },
+  "9.5": {
+    "text": "La revolución energética transformaba sistemas de producción eléctrica globalmente. Las tecnologías solares y eólicas reemplazaban combustibles fósiles gradualmente. Las baterías mejoradas almacenaban energía eficientemente. Las redes inteligentes optimizaban distribución eléctrica. Los gobiernos incentivaban transición energética mediante políticas. Las inversiones masivas fluían hacia infraestructura sostenible. Los costos renovables disminuían haciendo competitividad económica. Las emisiones carbónicas reducían mitigando cambio climático. Los empleos verdes ofrecían oportunidades económicas. La independencia energética fortalecía seguridad nacional. El futuro sostenible requería transformación sistémica urgente. La humanidad enfrentaba desafío existencial definitorio.",
+    "questions": [
+      {
+        "type": "literal",
+        "question": "¿Qué transformaba la revolución energética?",
+        "options": [
+          "Sistemas de producción eléctrica globalmente",
+          "Solo decoración de edificios",
+          "Únicamente vehículos de lujo"
+        ],
+        "answer": "Sistemas de producción eléctrica globalmente"
+      }
+    ]
+  },
+  "9.6": {
+    "text": "El movimiento por justicia social confrontaba desigualdades sistémicas arraigadas profundamente. Los activistas organizaban protestas pacíficas masivas. Las reformas legislativas enfrentaban resistencia institucional. Los testimonios personales humanizaban estadísticas abstractas. Las coaliciones amplias unificaban grupos diversos. Los medios amplificaban voces marginadas históricamente. Las generaciones jóvenes lideraban cambio paradigmático. Los debates públicos intensificaban conciencia colectiva. Las políticas implementadas medían impacto tangible. La igualdad requería compromiso sostenido. La justicia social representaba aspiración civilizatoria fundamental. El progreso dependía de solidaridad activa continua.",
+    "questions": [
+      {
+        "type": "literal",
+        "question": "¿Qué confrontaba el movimiento por justicia social?",
+        "options": [
+          "Desigualdades sistémicas arraigadas profundamente",
+          "Solo horarios de tiendas comerciales",
+          "Únicamente normas de vestimenta tradicional"
+        ],
+        "answer": "Desigualdades sistémicas arraigadas profundamente"
+      }
+    ]
+  },
+  "9.7": {
+    "text": "La innovación educativa transformaba pedagogías tradicionales completamente. Las plataformas digitales personalizaban experiencias de aprendizaje. Los maestros facilitaban descubrimiento en lugar de transmitir información pasivamente. Las evaluaciones formativas reemplazaban exámenes estandarizados. Los estudiantes colaboraban proyectos interdisciplinarios. Las habilidades críticas superaban memorización mecánica. Los currículos flexibles adaptaban intereses individuales. Las tecnologías inmersivas enriquecían comprensión conceptual. Los espacios físicos promovían creatividad colaborativa. La educación preparaba ciudadanos globales competentes. El aprendizaje vitalicio constituía necesidad económica. El futuro educativo requería reimaginación radical valiente.",
+    "questions": [
+      {
+        "type": "literal",
+        "question": "¿Qué transformaba la innovación educativa?",
+        "options": [
+          "Pedagogías tradicionales completamente",
+          "Solo uniformes escolares únicamente",
+          "Únicamente horarios de recreo"
+        ],
+        "answer": "Pedagogías tradicionales completamente"
+      }
+    ]
+  },
+  "9.8": {
+    "text": "El documental exploraba crisis de refugiados desde perspectivas humanizantes. Las familias compartían historias desgarradoras de supervivencia. Los niños enfrentaban traumas psicológicos profundos. Las organizaciones proporcionaban asistencia humanitaria esencial. Los gobiernos debatían políticas migratorias controversiales. Las comunidades anfitrionas mostraban solidaridad admirable. Los prejuicios culturales complicaban integración social. Las oportunidades educativas ofrecían esperanza futura. Los sistemas legales procesaban solicitudes de asilo. La empatía trascendía fronteras políticas artificiales. La humanidad compartida unificaba experiencias diversas. La compasión guiaba respuestas apropiadas éticamente.",
+    "questions": [
+      {
+        "type": "literal",
+        "question": "¿Qué exploraba el documental?",
+        "options": [
+          "Crisis de refugiados desde perspectivas humanizantes",
+          "Solo turismo de aventura extremo",
+          "Únicamente recetas culinarias tradicionales"
+        ],
+        "answer": "Crisis de refugiados desde perspectivas humanizantes"
+      }
+    ]
+  },
+  "9.9": {
+    "text": "Los investigadores forenses utilizaban técnicas avanzadas para resolver crímenes complejos. Fotocopiaban documentos comprometedores meticulosamente. Los testigos fruncían el ceño recordando detalles traumáticos. Los expertos graficaban patrones criminales emergentes. Los delincuentes intentaban hurtar evidencias comprometedoras. Los campos de cultivo necesitaban irrigar sistemáticamente. Sin embargo, la investigación criminal requería concentración absoluta. Los laboratorios analizaban muestras microscópicas cuidadosamente. Las tecnologías forenses evolucionaban constantemente mejorando. Los fiscales construían casos judiciales sólidos. La justicia dependía de investigaciones rigurosas exhaustivas. El sistema legal buscaba verdad mediante evidencia verificable.",
+    "questions": [
+      {
+        "type": "literal",
+        "question": "¿Qué utilizaban los investigadores forenses?",
+        "options": [
+          "Técnicas avanzadas para resolver crímenes",
+          "Solo intuición personal subjetiva",
+          "Únicamente métodos del siglo pasado"
+        ],
+        "answer": "Técnicas avanzadas para resolver crímenes"
+      }
+    ]
+  },
+  "9.10": {
+    "text": "Los estrategas militares estudiaban cómo mapear territorios estratégicos eficientemente. Las enfermedades infecciosas proliferaban en condiciones insalubres. Los ejércitos enemigos intentaban sitiar ciudades fortificadas históricamente. Las tácticas modernas requerían planificación meticulosa. Los generales analizaban terrenos mediante tecnologías satelitales. Las operaciones coordinadas requerían comunicaciones seguras. Los soldados entrenaban rigurosamente para misiones peligrosas. Las estrategias defensivas evolucionaban constantemente adaptándose. Los conflictos armados causaban sufrimiento humano inmenso. La diplomacia preventiva evitaba guerras innecesarias. La paz mundial representaba aspiración civilizatoria universal. El desarme global requería confianza internacional sostenida.",
+    "questions": [
+      {
+        "type": "literal",
+        "question": "¿Qué estudiaban los estrategas militares?",
+        "options": [
+          "Cómo mapear territorios estratégicos",
+          "Solo historia del arte medieval",
+          "Únicamente literatura romántica clásica"
+        ],
+        "answer": "Cómo mapear territorios estratégicos"
+      }
+    ]
+  },
+  "10.1": {
+    "text": "Los chefs innovadores aprendían a licuar ingredientes molecularmente. El director musical buscaba orquestar sinfonías contemporáneas experimentales. Las empresas necesitaban reconvertir modelos de negocio obsoletos. Los amigos esperaban reencontrar vínculos perdidos durante años. Los mecánicos debían remolcar vehículos accidentados cuidadosamente. Esta convergencia de actividades diversas ilustraba complejidad de la vida moderna. Los profesionales especializados dominaban técnicas específicas. Las industrias evolucionaban constantemente requiriendo adaptación. Los cambios tecnológicos aceleraban transformaciones sociales. Las habilidades tradicionales se revalorizaban paradójicamente. La gastronomía molecular revolucionaba artes culinarias. Las partituras contemporáneas desafiaban músicos experimentados. Los modelos empresariales sostenibles ganaban relevancia. Las relaciones humanas persistían conectando generaciones. La movilidad vehicular dependía de infraestructuras confiables. La sociedad contemporánea integraba múltiples dimensiones complejas simultáneamente.",
+    "questions": [
+      {
+        "type": "literal",
+        "question": "¿Qué buscaba el director musical?",
+        "options": [
+          "Orquestar sinfonías contemporáneas experimentales",
+          "Tocar solo música del barroco",
+          "Abandonar completamente la dirección"
+        ],
+        "answer": "Orquestar sinfonías contemporáneas experimentales"
+      }
+    ]
+  },
+  "10.2": {
+    "text": "El fenómeno del arabismo influenciaba estudios lingüísticos contemporáneos profundamente. Los sociólogos analizaban cómo europeizar culturas tradicionales. Los ambientalistas promovían forestar áreas deforestadas extensivamente. Los chefs experimentales aprendían a gratinar platos innovadores creativamente. Los artesanos necesitaban tornear madera con precisión milimétrica. Estas tendencias reflejaban globalización cultural compleja. Las influencias árabes enriquecían idiomas europeos históricamente. La modernización occidental transformaba sociedades tradicionalmente. La reforestación combatía degradación ambiental alarmante. Las técnicas culinarias fusionaban tradiciones diversas. Los oficios artesanales preservaban conocimientos ancestrales. La diversidad cultural constituía riqueza civilizatoria invaluable. Los intercambios históricos moldeaban identidades contemporáneas. La preservación equilibraba innovación respetuosamente. El patrimonio cultural requería protección consciente. La humanidad compartía herencia común diversa.",
+    "questions": [
+      {
+        "type": "literal",
+        "question": "¿Qué influenciaba estudios lingüísticos contemporáneos?",
+        "options": [
+          "El fenómeno del arabismo",
+          "Solo el latín clásico exclusivamente",
+          "Únicamente lenguas artificiales modernas"
+        ],
+        "answer": "El fenómeno del arabismo"
+      }
+    ]
+  },
+  "10.3": {
+    "text": "Los joyeros artesanales dominaban técnicas para encrustar gemas preciosas meticulosamente. Los médicos observaban cómo pacientes enflaquecer durante tratamientos intensivos. Los estilistas aprendían a engominar cabellos creando diseños elaborados. Estos oficios especializados requerían años de aprendizaje dedicado. La joyería combinaba artesanía con diseño conceptual. Los tratamientos médicos afectaban físicamente a pacientes vulnerables. La peluquería transformaba apariencias mediante técnicas expertas. Los maestros transmitían conocimientos mediante mentoría práctica. Las habilidades manuales complementaban creatividad artística. Los oficios tradicionales enfrentaban obsolescencia tecnológica. Sin embargo, la demanda de productos artesanales personalizados crecía. Los consumidores valoraban autenticidad sobre producción masiva. Las economías locales dependían de artesanos calificados. La preservación de oficios tradicionales enriquecía diversidad cultural. El trabajo manual ofrecía satisfacción intrínseca irreemplazable.",
+    "questions": [
+      {
+        "type": "literal",
+        "question": "¿Qué dominaban los joyeros artesanales?",
+        "options": [
+          "Técnicas para encrustar gemas preciosas",
+          "Solo vender productos importados",
+          "Únicamente reparar relojes digitales"
+        ],
+        "answer": "Técnicas para encrustar gemas preciosas"
+      }
+    ]
+  },
+  "10.4": {
+    "text": "La filosofía existencialista exploraba dilemas humanos fundamentales profundamente. Los pensadores cuestionaban significado de existencia individual. Las corrientes fenomenológicas analizaban experiencias conscientes directas. Los debates epistemológicos confrontaban límites del conocimiento. Las teorías éticas examinaban fundamentos de moralidad. Los existencialistas enfatizaban libertad y responsabilidad personal. Las interpretaciones hermenéuticas desentrañaban textos filosóficos complejos. Los sistemas metafísicos especulaban sobre naturaleza realidad. Las discusiones ontológicas investigaban esencia del ser. La filosofía analítica descomponía argumentos lógicamente. Los pragmatistas valoraban consecuencias prácticas sobre abstracciones. La filosofía continental priorizaba contextos históricos culturales. Las tradiciones orientales ofrecían perspectivas complementarias. El pensamiento crítico capacitaba ciudadanos reflexivos. La filosofía iluminaba condición humana perpetuamente. El cuestionamiento filosófico constituía ejercicio intelectual vital.",
+    "questions": [
+      {
+        "type": "literal",
+        "question": "¿Qué exploraba la filosofía existencialista?",
+        "options": [
+          "Dilemas humanos fundamentales profundamente",
+          "Solo matemáticas aplicadas básicas",
+          "Únicamente protocolos administrativos simples"
+        ],
+        "answer": "Dilemas humanos fundamentales profundamente"
+      }
+    ]
+  },
+  "10.5": {
+    "text": "El ecosistema empresarial contemporáneo navegaba transformaciones disruptivas constantes. Las startups tecnológicas desafiaban corporaciones establecidas. Los modelos de negocio tradicionales enfrentaban obsolescencia acelerada. Las innovaciones digitales democratizaban acceso a mercados. Los emprendedores sociales integraban rentabilidad con impacto positivo. Las economías colaborativas redistribuían recursos eficientemente. Las plataformas digitales conectaban productores y consumidores directamente. Los inversionistas evaluaban propuestas mediante métricas sofisticadas. Las incubadoras apoyaban empresas nacientes estratégicamente. Los aceleradores intensificaban desarrollo empresarial rápidamente. Las fusiones corporativas consolidaban sectores industriales. La competencia global intensificaba presiones innovadoras. Las regulaciones gubernamentales equilibraban innovación y protección. El ecosistema emprendedor requería capital, talento e infraestructura. El futuro económico dependía de adaptabilidad organizacional. La innovación disruptiva transformaba paisajes industriales perpetuamente.",
+    "questions": [
+      {
+        "type": "literal",
+        "question": "¿Qué navegaba el ecosistema empresarial contemporáneo?",
+        "options": [
+          "Transformaciones disruptivas constantes",
+          "Solo métodos comerciales del siglo XIX",
+          "Únicamente prácticas contables tradicionales"
+        ],
+        "answer": "Transformaciones disruptivas constantes"
+      }
+    ]
+  },
+  "10.6": {
+    "text": "La neurociencia cognitiva investigaba mecanismos cerebrales subyacentes a procesos mentales. Los investigadores utilizaban resonancias magnéticas funcionales. Las redes neuronales artificiales emulaban cognición humana. Los experimentos controlados medían respuestas cognitivas precisamente. Las teorías computacionales modelaban procesamiento de información mental. Los neurotransmisores regulaban funciones cerebrales complejas. La plasticidad neuronal permitía aprendizaje continuo. Las patologías neurológicas afectaban capacidades cognitivas. Los tratamientos farmacológicos modulaban química cerebral. Las terapias cognitivas reestructuraban patrones de pensamiento. La conciencia representaba fenómeno emergente misterioso. La inteligencia artificial cuestionaba unicidad humana. Los debates filosóficos exploraban naturaleza de mente. La neurociencia integraba múltiples disciplinas colaborativamente. El cerebro humano constituía frontera científica fascinante. La comprensión de la mente avanzaba exponencialmente.",
+    "questions": [
+      {
+        "type": "literal",
+        "question": "¿Qué investigaba la neurociencia cognitiva?",
+        "options": [
+          "Mecanismos cerebrales de procesos mentales",
+          "Solo anatomía muscular esquelética",
+          "Únicamente sistemas digestivos animales"
+        ],
+        "answer": "Mecanismos cerebrales de procesos mentales"
+      }
+    ]
+  },
+  "10.7": {
+    "text": "La arquitectura sostenible integraba principios ecológicos en diseños urbanos. Los edificios verdes minimizaban consumo energético mediante tecnologías. Los materiales reciclados reducían impacto ambiental constructivo. Los diseños bioclimáticos aprovechaban recursos naturales eficientemente. Las azoteas verdes proporcionaban aislamiento térmico beneficioso. Los sistemas de recolección de agua optimizaban recursos hídricos. La iluminación natural reducía dependencia eléctrica artificial. Los espacios comunitarios promovían interacción social saludable. La planificación urbana integraba transporte público accesible. Las ciudades inteligentes utilizaban datos para optimizar servicios. La densificación vertical preservaba áreas naturales periféricas. Las certificaciones ambientales reconocían construcciones sostenibles. Los arquitectos equilibraban estética, funcionalidad y sostenibilidad. El urbanismo responsable respondía a crisis climática. Las ciudades futuras serían verdes o inhabitables. La arquitectura moldeaba calidad de vida urbana significativamente.",
+    "questions": [
+      {
+        "type": "literal",
+        "question": "¿Qué integraba la arquitectura sostenible?",
+        "options": [
+          "Principios ecológicos en diseños urbanos",
+          "Solo decoraciones extravagantes innecesarias",
+          "Únicamente materiales más caros posibles"
+        ],
+        "answer": "Principios ecológicos en diseños urbanos"
+      }
+    ]
+  },
+  "10.8": {
+    "text": "La literatura posmoderna deconstruía narrativas convencionales sistemáticamente. Los autores experimentaban con estructuras fragmentadas conscientemente. Las metaficciones cuestionaban límites entre realidad y ficción. Los narradores no confiables desafiaban lectores activamente. Las referencias intertextuales creaban capas significativas complejas. La ironía posmoderna subvertía grandes narrativas tradicionales. Los personajes carecían de desarrollo psicológico profundo intencionalmente. Las tramas no lineales rechazaban causalidad convencional. El lenguaje juguetón exploraba posibilidades expresivas infinitas. Los finales ambiguos negaban clausura narrativa tradicional. La autoconciencia textual exponía artificios literarios deliberadamente. Los críticos debatían mérito artístico apasionadamente. Algunos celebraban innovación liberadora radical. Otros lamentaban pérdida de coherencia narrativa. La literatura posmoderna reflejaba fragmentación cultural contemporánea. El canon literario evolucionaba incorporando voces diversas.",
+    "questions": [
+      {
+        "type": "literal",
+        "question": "¿Qué deconstruía la literatura posmoderna?",
+        "options": [
+          "Narrativas convencionales sistemáticamente",
+          "Solo poemas románticos del siglo XIX",
+          "Únicamente manuales técnicos industriales"
+        ],
+        "answer": "Narrativas convencionales sistemáticamente"
+      }
+    ]
+  },
+  "10.9": {
+    "text": "La física cuántica revelaba realidades contraintuitivas fundamentalmente. Las partículas subatómicas exhibían comportamientos paradójicos. El principio de incertidumbre limitaba precisión de mediciones. El entrelazamiento cuántico conectaba partículas instantáneamente. Las superposiciones permitían estados múltiples simultáneamente. La observación colapsaba funciones de onda probabilísticas. Los experimentos de doble rendija demostraban dualidad onda-partícula. Las interpretaciones filosóficas divergían radicalmente. La mecánica cuántica desafiaba intuiciones clásicas profundamente. Las aplicaciones tecnológicas revolucionaban computación y criptografía. Los ordenadores cuánticos prometían capacidades exponenciales. Las telecomunicaciones cuánticas garantizaban seguridad absoluta. La teoría unificada permanecía esquiva misteriosamente. Los físicos buscaban reconciliar relatividad y cuántica. El universo microscópico operaba mediante reglas extrañas. La realidad física superaba imaginación humana continuamente.",
+    "questions": [
+      {
+        "type": "literal",
+        "question": "¿Qué revelaba la física cuántica?",
+        "options": [
+          "Realidades contraintuitivas fundamentalmente",
+          "Solo fenómenos macroscópicos cotidianos",
+          "Únicamente leyes de movimiento newtonianas"
+        ],
+        "answer": "Realidades contraintuitivas fundamentalmente"
+      }
+    ]
+  },
+  "10.10": {
+    "text": "Los debates contemporáneos sobre inteligencia artificial generaban reflexiones filosóficas profundas. Los sistemas de aprendizaje automático procesaban datos masivos eficientemente. Las redes neuronales profundas emulaban cognición humana parcialmente. Los algoritmos optimizaban decisiones mediante análisis estadístico sofisticado. La automatización transformaba mercados laborales radicalmente. Los dilemas éticos sobre autonomía algorítmica intensificaban preocupaciones. Los sesgos incorporados en datos perpetuaban injusticias sistémicas. Las regulaciones gubernamentales intentaban equilibrar innovación y protección. Los filósofos cuestionaban naturaleza de conciencia artificial. Los científicos debatían posibilidad de inteligencia general artificial. Las aplicaciones prácticas beneficiaban numerosos sectores productivos. Los riesgos existenciales preocupaban a pensadores precavidos. La superinteligencia podría superar capacidades humanas eventualmente. La humanidad enfrentaba decisiones civilizatorias trascendentales. El futuro tecnológico requería sabiduría ética colectiva. La inteligencia artificial definiría el siglo XXI inevitablemente.",
+    "questions": [
+      {
+        "type": "literal",
+        "question": "¿Qué generaban los debates sobre inteligencia artificial?",
+        "options": [
+          "Reflexiones filosóficas profundas",
+          "Solo entretenimiento superficial pasajero",
+          "Únicamente confusión general total"
+        ],
+        "answer": "Reflexiones filosóficas profundas"
+      }
+    ]
+  }
+}
